@@ -1,11 +1,5 @@
 import psutil
-
-# function returning time in hh:mm:ss
-def convertTime(seconds):
-    minutes, seconds = divmod(seconds, 60)
-    hours, minutes = divmod(minutes, 60)
-    return "%d:%02d:%02d" % (hours, minutes, seconds)
-
+from utils import applicationutils
 
 if __name__ == "__main__":
     # returns a tuple
@@ -13,4 +7,4 @@ if __name__ == "__main__":
     print("Battery percentage : ", battery.percent)
     print("Power plugged in : ", battery.power_plugged)
     # converting seconds to hh:mm:ss
-    print("Battery left : ", convertTime(battery.secsleft))
+    print("Battery left : ", applicationutils.convertTime(battery.secsleft))
