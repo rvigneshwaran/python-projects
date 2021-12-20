@@ -24,6 +24,14 @@ class WebScraperBot:
         return status_code,output_content
     
     def findTagById(self,soup_instance,idName):
+        """[Method Intended to find the element using an Id]
+        Args:
+            soup_instance ([BeautifulSoup]): [description]
+            idName ([String]): [Name of the Identifier as Selector]
+
+        Returns:
+            [Element]: [Element from the Total page]
+        """
         title = soup_instance.find(id=idName)
         return title
         
