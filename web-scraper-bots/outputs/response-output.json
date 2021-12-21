@@ -1,0 +1,361 @@
+[
+    {
+        "SiteId": "Sl.No.",
+        "SiteName": "Ministry Name",
+        "SiteLink": "Web Site"
+    },
+    {
+        "SiteId": "1",
+        "SiteName": "Cabinet Secretariat",
+        "SiteLink": "http://cabsec.nic.in/",
+        "SiteRTILink": "https://cabsec.gov.in/page.php?page=45"
+    },
+    {
+        "SiteId": "2",
+        "SiteName": "Comptroller & Auditor General",
+        "SiteLink": "http://www.cag.gov.in/",
+        "SiteRTILink": "http://cag.gov.in/"
+    },
+    {
+        "SiteId": "3",
+        "SiteName": "Department of Atomic Energy",
+        "SiteLink": "http://dae.nic.in/",
+        "SiteRTILink": "http://dae.nic.in/?q=node/39"
+    },
+    {
+        "SiteId": "4",
+        "SiteName": "Department of Space",
+        "SiteLink": "http://www.isro.gov.in",
+        "SiteRTILink": "https://www.isro.gov.in/right-to-information"
+    },
+    {
+        "SiteId": "5",
+        "SiteName": "Election Commission of India",
+        "SiteLink": "http://eci.nic.in",
+        "SiteRTILink": "https://rti.eci.nic.in/reports"
+    },
+    {
+        "SiteId": "6",
+        "SiteName": "HIGH COURT OF DELHI",
+        "SiteLink": "http://delhihighcourt.nic.in/",
+        "SiteRTILink": "http://delhihighcourt.nic.in/rti_dis.asp"
+    },
+    {
+        "SiteId": "7",
+        "SiteName": "Ministry of Agriculture",
+        "SiteLink": "https://agricoop.nic.in/\r\n",
+        "SiteRTILink": "http://agricoop.nic.in/rti"
+    },
+    {
+        "SiteId": "8",
+        "SiteName": "Ministry of Chemicals & Fertilizers",
+        "SiteLink": "https://chemicals.nic.in",
+        "SiteRTILink": "https://chemicals.nic.in/rti"
+    },
+    {
+        "SiteId": "9",
+        "SiteName": "Ministry of Civil Aviation",
+        "SiteLink": "http://www.civilaviation.gov.in/",
+        "SiteRTILink": "http://www.civilaviation.gov.in/documents/power-rti"
+    },
+    {
+        "SiteId": "10",
+        "SiteName": "Ministry of Coal",
+        "SiteLink": "https://www.coal.nic.in/",
+        "SiteRTILink": "https://www.coal.nic.in/content/right-to-information"
+    },
+    {
+        "SiteId": "11",
+        "SiteName": "Ministry of Commerce & Industry",
+        "SiteLink": "http://commerce.gov.in/",
+        "SiteRTILink": "http://commerce.gov.in/InnerContent.aspx?Id=31"
+    },
+    {
+        "SiteId": "12",
+        "SiteName": "Ministry of Communications & Information Tech.",
+        "SiteLink": "http://meity.gov.in/",
+        "SiteRTILink": "http://meity.gov.in/rti"
+    },
+    {
+        "SiteId": "13",
+        "SiteName": "Ministry of Consumer Aff., Food, & Public Dist.",
+        "SiteLink": "http://fcamin.nic.in/",
+        "SiteRTILink": "https://consumeraffairs.nic.in/rti/duties-and-functions"
+    },
+    {
+        "SiteId": "14",
+        "SiteName": "Ministry of Corporate Affairs",
+        "SiteLink": "http://www.mca.gov.in/",
+        "SiteRTILink": "http://www.mca.gov.in/MinistryV2/rti.html"
+    },
+    {
+        "SiteId": "15",
+        "SiteName": "Ministry of Culture",
+        "SiteLink": "http://www.indiaculture.nic.in/",
+        "SiteRTILink": "https://www.indiaculture.nic.in/right-information"
+    },
+    {
+        "SiteId": "16",
+        "SiteName": "Ministry of Defence",
+        "SiteLink": "http://mod.nic.in/",
+        "SiteRTILink": "https://mod.gov.in/dod/right-information"
+    },
+    {
+        "SiteId": "17",
+        "SiteName": "Ministry of Development of North Eastern Region",
+        "SiteLink": "http://www.mdoner.gov.in/",
+        "SiteRTILink": "http://mdoner.gov.in/about-ministry/appellate-authorities-cpios"
+    },
+    {
+        "SiteId": "18",
+        "SiteName": "Ministry of Drinking Water and Sanitation",
+        "SiteLink": "https://mdws.gov.in/",
+        "SiteRTILink": "http://www.mdws.gov.in/rti/proactive-disclosure"
+    },
+    {
+        "SiteId": "19",
+        "SiteName": "Ministry of Earth Sciences",
+        "SiteLink": "http://www.moes.gov.in/",
+        "SiteRTILink": "http://www.moes.gov.in/content/right-information"
+    },
+    {
+        "SiteId": "20",
+        "SiteName": "Ministry of Environment & Forests",
+        "SiteLink": "http://www.envfor.nic.in/",
+        "SiteRTILink": "http://envfor.nic.in/division/right-information"
+    },
+    {
+        "SiteId": "21",
+        "SiteName": "Ministry of External Affairs",
+        "SiteLink": "http://www.mea.gov.in/",
+        "SiteRTILink": "http://www.mea.gov.in/right-to-information-info.htm?63/Right_to_Information"
+    },
+    {
+        "SiteId": "22",
+        "SiteName": "Ministry of Finance",
+        "SiteLink": "http://finmin.nic.in/",
+        "SiteRTILink": "http://finmin.nic.in/rti-page"
+    },
+    {
+        "SiteId": "23",
+        "SiteName": "Ministry of Food Processing Industries",
+        "SiteLink": "http://mofpi.nic.in/",
+        "SiteRTILink": "http://mofpi.nic.in/Rti"
+    },
+    {
+        "SiteId": "24",
+        "SiteName": "Ministry of Health & Family Welfare",
+        "SiteLink": "https://www.mohfw.nic.in/",
+        "SiteRTILink": "https://www.mohfw.nic.in/right-information-rti"
+    },
+    {
+        "SiteId": "25",
+        "SiteName": "Ministry of Heavy Industry & Public Enterprises",
+        "SiteLink": "http://dhi.nic.in/",
+        "SiteRTILink": "https://dhi.nic.in/UserView/index?mid=1272"
+    },
+    {
+        "SiteId": "26",
+        "SiteName": "Ministry of Home Affairs",
+        "SiteLink": "https://mha.gov.in",
+        "SiteRTILink": "https://mha.gov.in/rti/proactive-disclosure"
+    },
+    {
+        "SiteId": "27",
+        "SiteName": "Ministry of Housing & Urban Poverty Alleviation",
+        "SiteLink": "http://mohua.gov.in/cms/mhupa.php",
+        "SiteRTILink": "http://mohua.gov.in/cms/suomotu-disclosure-of-infmation-under-section.php"
+    },
+    {
+        "SiteId": "28",
+        "SiteName": "Ministry of Human Resource Development",
+        "SiteLink": "http://www.education.nic.in/",
+        "SiteRTILink": "http://mhrd.gov.in/rti_he"
+    },
+    {
+        "SiteId": "29",
+        "SiteName": "Ministry of Information & Broadcasting",
+        "SiteLink": "http://www.mib.gov.in/",
+        "SiteRTILink": "http://www.mib.gov.in/right-to-information"
+    },
+    {
+        "SiteId": "30",
+        "SiteName": "Ministry of Labour & Employment",
+        "SiteLink": "https://labour.gov.in/",
+        "SiteRTILink": "https://labour.gov.in/rti/proactive-disclosure"
+    },
+    {
+        "SiteId": "31",
+        "SiteName": "Ministry of Law & Justice",
+        "SiteLink": "http://lawmin.gov.in/",
+        "SiteRTILink": "http://doj.gov.in/rti"
+    },
+    {
+        "SiteId": "32",
+        "SiteName": "Ministry of Micro, Small and Medium Enterprises",
+        "SiteLink": "http://msme.gov.in/",
+        "SiteRTILink": "http://msme.gov.in/right-information-act"
+    },
+    {
+        "SiteId": "33",
+        "SiteName": "Ministry of Mines",
+        "SiteLink": "https://mines.gov.in/Home/Index",
+        "SiteRTILink": "http://mines.gov.in/ViewData/index?mid=1448"
+    },
+    {
+        "SiteId": "34",
+        "SiteName": "Ministry of Minority Affairs",
+        "SiteLink": "",
+        "SiteRTILink": "http://www.minorityaffairs.gov.in/rti/proactive-disclosure"
+    },
+    {
+        "SiteId": "35",
+        "SiteName": "Ministry of New & Renewable Energy",
+        "SiteLink": "",
+        "SiteRTILink": "https://mnre.gov.in/right-information"
+    },
+    {
+        "SiteId": "36",
+        "SiteName": "Ministry of Panchayati Raj",
+        "SiteLink": "http://www.panchayat.gov.in/",
+        "SiteRTILink": "http://www.panchayat.gov.in/rti"
+    },
+    {
+        "SiteId": "37",
+        "SiteName": "Ministry of Parliamentary Affairs",
+        "SiteLink": "",
+        "SiteRTILink": "https://mpa.gov.in/rti"
+    },
+    {
+        "SiteId": "38",
+        "SiteName": "Ministry of Personnel, Public Grievances & Pensions",
+        "SiteLink": "http://persmin.gov.in",
+        "SiteRTILink": "http://dopt.gov.in/rti/proactive-disclosures/proactive-disclosure"
+    },
+    {
+        "SiteId": "39",
+        "SiteName": "Ministry of Petroleum & Natural Gas",
+        "SiteLink": "http://www.petroleum.nic.in",
+        "SiteRTILink": "http://www.petroleum.nic.in/rti/rti-2005"
+    },
+    {
+        "SiteId": "40",
+        "SiteName": "Ministry of Power",
+        "SiteLink": "http://powermin.gov.in",
+        "SiteRTILink": "http://powermin.gov.in/en/content/proactive-disclosures"
+    },
+    {
+        "SiteId": "41",
+        "SiteName": "Ministry of Railways",
+        "SiteLink": "http://www.indianrailways.gov.in",
+        "SiteRTILink": "http://www.indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,1,1260"
+    },
+    {
+        "SiteId": "42",
+        "SiteName": "Ministry of Road Transport & Highways",
+        "SiteLink": "http://morth.nic.in",
+        "SiteRTILink": "http://morth.nic.in/index1.asp?lang=1&linkid=43&lid=259"
+    },
+    {
+        "SiteId": "43",
+        "SiteName": "Ministry of Rural Development",
+        "SiteLink": "http://rural.nic.in/",
+        "SiteRTILink": "https://rural.nic.in/rti"
+    },
+    {
+        "SiteId": "44",
+        "SiteName": "Ministry of Science & Technology",
+        "SiteLink": "http://dst.gov.in/",
+        "SiteRTILink": "http://www.dst.gov.in/right-information"
+    },
+    {
+        "SiteId": "45",
+        "SiteName": "Ministry of Shipping",
+        "SiteLink": "http://shipmin.gov.in/",
+        "SiteRTILink": "http://shipmin.gov.in/index1.php?lang=1&level=0&linkid=6&lid=44"
+    },
+    {
+        "SiteId": "46",
+        "SiteName": "Ministry of Social Justice & Empowerment",
+        "SiteLink": "http://socialjustice.nic.in/",
+        "SiteRTILink": "http://socialjustice.nic.in/Viewdata?mid=76643"
+    },
+    {
+        "SiteId": "47",
+        "SiteName": "Ministry of Statistics & Programme Implementation",
+        "SiteLink": "http://mospi.gov.in/",
+        "SiteRTILink": "http://mospi.gov.in/sites/default/files/main_menu/rti/rti_Compendium_Revised_2apr12.pdf"
+    },
+    {
+        "SiteId": "48",
+        "SiteName": "Ministry of Steel",
+        "SiteLink": "http://steel.gov.in/",
+        "SiteRTILink": "http://steel.gov.in/right-information"
+    },
+    {
+        "SiteId": "49",
+        "SiteName": "Ministry of Textiles",
+        "SiteLink": "http://www.texmin.nic.in/",
+        "SiteRTILink": "http://www.texmin.nic.in/rti"
+    },
+    {
+        "SiteId": "50",
+        "SiteName": "Ministry of Tourism",
+        "SiteLink": "http://tourism.gov.in/",
+        "SiteRTILink": "http://tourism.gov.in/chapter"
+    },
+    {
+        "SiteId": "51",
+        "SiteName": "Ministry of Tribal Affairs",
+        "SiteLink": "http://tribal.nic.in/",
+        "SiteRTILink": "https://tribal.nic.in/RTI.aspx"
+    },
+    {
+        "SiteId": "52",
+        "SiteName": "Ministry of Urban Development",
+        "SiteLink": "http://mohua.gov.in/",
+        "SiteRTILink": "http://mohua.gov.in/cms/suomotu-disclosure-of-infmation-under-section.php"
+    },
+    {
+        "SiteId": "53",
+        "SiteName": "Ministry of Water Resources",
+        "SiteLink": "http://mowr.gov.in",
+        "SiteRTILink": "http://mowr.gov.in/citizens-corner/rti"
+    },
+    {
+        "SiteId": "54",
+        "SiteName": "Ministry of Women & Child Development",
+        "SiteLink": "http://wcd.nic.in/",
+        "SiteRTILink": "http://wcd.nic.in/rti"
+    },
+    {
+        "SiteId": "55",
+        "SiteName": "Ministry of Youth Affairs & Sports",
+        "SiteLink": "http://yas.nic.in",
+        "SiteRTILink": "https://yas.nic.in/rti/proactive-disclosure-"
+    },
+    {
+        "SiteId": "56",
+        "SiteName": "Planning Commission",
+        "SiteLink": "http://planningcommission.gov.in/",
+        "SiteRTILink": "http://planningcommission.gov.in/rti/index.php"
+    },
+    {
+        "SiteId": "57",
+        "SiteName": "President",
+        "SiteLink": "http://www.rashtrapatisachivalaya.gov.in/",
+        "SiteRTILink": "http://www.rashtrapatisachivalaya.gov.in/president%E2%80%99s-secretariat"
+    },
+    {
+        "SiteId": "58",
+        "SiteName": "Prime Minister's Office",
+        "SiteLink": "http://www.pmindia.gov.in/",
+        "SiteRTILink": "http://www.pmindia.gov.in/en/right-to-information-rti/"
+    },
+    {
+        "SiteId": "59",
+        "SiteName": "Vice-President",
+        "SiteLink": "http://vicepresidentofindia.nic.in",
+        "SiteRTILink": "http://vicepresidentofindia.nic.in/rti"
+    }
+]
