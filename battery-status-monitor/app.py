@@ -1,5 +1,5 @@
 import psutil
-<<<<<<< HEAD
+
 from applicationutils import applicationutils
 
 class BatteryStatusMonitor:
@@ -20,7 +20,7 @@ class BatteryStatusMonitor:
 if __name__ == "__main__":
     battery_status_monitor = BatteryStatusMonitor()
     battery_status_monitor.getBatteryStatus()
-=======
+
 from utils import applicationutils
 
 if __name__ == "__main__":
@@ -30,4 +30,3 @@ if __name__ == "__main__":
     print("Power plugged in : ", battery.power_plugged)
     # converting seconds to hh:mm:ss
     print("Battery left : ", applicationutils.convertTime(battery.secsleft))
->>>>>>> 660f14f4858f2c2aeb814107adece9b2bb10aa99
