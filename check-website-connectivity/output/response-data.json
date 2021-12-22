@@ -4,6 +4,34 @@
         "SiteName": "Cabinet Secretariat",
         "SiteLink": "http://cabsec.nic.in/",
         "SiteRTILink": "https://cabsec.gov.in/page.php?page=45",
-        "isWebsiteUp": true
+        "isWebsiteUp": false
+    },
+    {
+        "SiteId": "2",
+        "SiteName": "Comptroller & Auditor General",
+        "SiteLink": "http://www.cag.gov.in/",
+        "SiteRTILink": "http://cag.gov.in/",
+        "isWebsiteUp": false
+    },
+    {
+        "SiteId": "3",
+        "SiteName": "Department of Atomic Energy",
+        "SiteLink": "http://dae.nic.in/",
+        "SiteRTILink": "http://dae.nic.in/?q=node/39",
+        "isWebsiteUp": false
+    },
+    {
+        "SiteId": "4",
+        "SiteName": "Department of Space",
+        "SiteLink": "http://www.isro.gov.in",
+        "SiteRTILink": "https://www.isro.gov.in/right-to-information",
+        "isWebsiteUp": false
+    },
+    {
+        "SiteId": "5",
+        "SiteName": "Election Commission of India",
+        "SiteLink": "http://eci.nic.in",
+        "SiteRTILink": "https://rti.eci.nic.in/reports",
+        "isWebsiteUp": false
     }
 ]
