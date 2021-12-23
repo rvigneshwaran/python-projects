@@ -1,0 +1,2756 @@
+[
+    {
+        "title_details": {},
+        "rating_details": {}
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1994",
+            "Movie-Details": "Frank Darabont (dir.), Tim Robbins, Morgan Freeman",
+            "Movie-Name": "The Shawshank Redemption"
+        },
+        "rating_details": {
+            "ratings": "9.2",
+            "total-user-ratings": "2,509,364"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1972",
+            "Movie-Details": "Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",
+            "Movie-Name": "The Godfather"
+        },
+        "rating_details": {
+            "ratings": "9.1",
+            "total-user-ratings": "1,729,117"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1974",
+            "Movie-Details": "Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",
+            "Movie-Name": "The Godfather: Part II"
+        },
+        "rating_details": {
+            "ratings": "9.0",
+            "total-user-ratings": "1,199,905"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2008",
+            "Movie-Details": "Christopher Nolan (dir.), Christian Bale, Heath Ledger",
+            "Movie-Name": "The Dark Knight"
+        },
+        "rating_details": {
+            "ratings": "9.0",
+            "total-user-ratings": "2,459,367"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",
+            "Movie-Name": "12 Angry Men"
+        },
+        "rating_details": {
+            "ratings": "8.9",
+            "total-user-ratings": "741,161"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1993",
+            "Movie-Details": "Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",
+            "Movie-Name": "Schindler's List"
+        },
+        "rating_details": {
+            "ratings": "8.9",
+            "total-user-ratings": "1,283,527"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2003",
+            "Movie-Details": "Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",
+            "Movie-Name": "The Lord of the Rings: The Return of the King"
+        },
+        "rating_details": {
+            "ratings": "8.9",
+            "total-user-ratings": "1,733,053"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1994",
+            "Movie-Details": "Quentin Tarantino (dir.), John Travolta, Uma Thurman",
+            "Movie-Name": "Pulp Fiction"
+        },
+        "rating_details": {
+            "ratings": "8.8",
+            "total-user-ratings": "1,935,310"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2021",
+            "Movie-Details": "Jon Watts (dir.), Tom Holland, Zendaya",
+            "Movie-Name": "Spider-Man: No Way Home"
+        },
+        "rating_details": {
+            "ratings": "8.8",
+            "total-user-ratings": "230,753"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1966",
+            "Movie-Details": "Sergio Leone (dir.), Clint Eastwood, Eli Wallach",
+            "Movie-Name": "Il buono, il brutto, il cattivo"
+        },
+        "rating_details": {
+            "ratings": "8.8",
+            "total-user-ratings": "726,555"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2001",
+            "Movie-Details": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+            "Movie-Name": "The Lord of the Rings: The Fellowship of the Ring"
+        },
+        "rating_details": {
+            "ratings": "8.8",
+            "total-user-ratings": "1,754,077"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1999",
+            "Movie-Details": "David Fincher (dir.), Brad Pitt, Edward Norton",
+            "Movie-Name": "Fight Club"
+        },
+        "rating_details": {
+            "ratings": "8.7",
+            "total-user-ratings": "1,973,615"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1994",
+            "Movie-Details": "Robert Zemeckis (dir.), Tom Hanks, Robin Wright",
+            "Movie-Name": "Forrest Gump"
+        },
+        "rating_details": {
+            "ratings": "8.7",
+            "total-user-ratings": "1,936,455"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2010",
+            "Movie-Details": "Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",
+            "Movie-Name": "Inception"
+        },
+        "rating_details": {
+            "ratings": "8.7",
+            "total-user-ratings": "2,205,947"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2002",
+            "Movie-Details": "Peter Jackson (dir.), Elijah Wood, Ian McKellen",
+            "Movie-Name": "The Lord of the Rings: The Two Towers"
+        },
+        "rating_details": {
+            "ratings": "8.7",
+            "total-user-ratings": "1,566,318"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1980",
+            "Movie-Details": "Irvin Kershner (dir.), Mark Hamill, Harrison Ford",
+            "Movie-Name": "Star Wars: Episode V - The Empire Strikes Back"
+        },
+        "rating_details": {
+            "ratings": "8.7",
+            "total-user-ratings": "1,220,185"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1999",
+            "Movie-Details": "Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",
+            "Movie-Name": "The Matrix"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,794,678"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1990",
+            "Movie-Details": "Martin Scorsese (dir.), Robert De Niro, Ray Liotta",
+            "Movie-Name": "Goodfellas"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,086,132"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1975",
+            "Movie-Details": "Milos Forman (dir.), Jack Nicholson, Louise Fletcher",
+            "Movie-Name": "One Flew Over the Cuckoo's Nest"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "964,364"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1954",
+            "Movie-Details": "Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",
+            "Movie-Name": "Shichinin no samurai"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "332,596"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "David Fincher (dir.), Morgan Freeman, Brad Pitt",
+            "Movie-Name": "Se7en"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,540,944"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1991",
+            "Movie-Details": "Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",
+            "Movie-Name": "The Silence of the Lambs"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,350,829"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2002",
+            "Movie-Details": "Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",
+            "Movie-Name": "Cidade de Deus"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "728,714"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1946",
+            "Movie-Details": "Frank Capra (dir.), James Stewart, Donna Reed",
+            "Movie-Name": "It's a Wonderful Life"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "430,066"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",
+            "Movie-Name": "La vita è bella"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "660,877"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1998",
+            "Movie-Details": "Steven Spielberg (dir.), Tom Hanks, Matt Damon",
+            "Movie-Name": "Saving Private Ryan"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,310,888"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1977",
+            "Movie-Details": "George Lucas (dir.), Mark Hamill, Harrison Ford",
+            "Movie-Name": "Star Wars"
+        },
+        "rating_details": {
+            "ratings": "8.6",
+            "total-user-ratings": "1,291,890"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2014",
+            "Movie-Details": "Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",
+            "Movie-Name": "Interstellar"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,656,666"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2001",
+            "Movie-Details": "Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",
+            "Movie-Name": "Sen to Chihiro no kamikakushi"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "706,903"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1999",
+            "Movie-Details": "Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",
+            "Movie-Name": "The Green Mile"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,221,060"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",
+            "Movie-Name": "Gisaengchung"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "693,859"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1994",
+            "Movie-Details": "Luc Besson (dir.), Jean Reno, Gary Oldman",
+            "Movie-Name": "Léon"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,097,710"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1962",
+            "Movie-Details": "Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",
+            "Movie-Name": "Seppuku"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "50,840"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2002",
+            "Movie-Details": "Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",
+            "Movie-Name": "The Pianist"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "782,606"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1991",
+            "Movie-Details": "James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",
+            "Movie-Name": "Terminator 2: Judgment Day"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,045,559"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1985",
+            "Movie-Details": "Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",
+            "Movie-Name": "Back to the Future"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,129,481"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",
+            "Movie-Name": "The Usual Suspects"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,039,928"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1960",
+            "Movie-Details": "Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",
+            "Movie-Name": "Psycho"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "639,454"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1994",
+            "Movie-Details": "Roger Allers (dir.), Matthew Broderick, Jeremy Irons",
+            "Movie-Name": "The Lion King"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "997,097"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1936",
+            "Movie-Details": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+            "Movie-Name": "Modern Times"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "231,602"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1998",
+            "Movie-Details": "Tony Kaye (dir.), Edward Norton, Edward Furlong",
+            "Movie-Name": "American History X"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,077,313"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1988",
+            "Movie-Details": "Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",
+            "Movie-Name": "Hotaru no haka"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "257,556"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2014",
+            "Movie-Details": "Damien Chazelle (dir.), Miles Teller, J.K. Simmons",
+            "Movie-Name": "Whiplash"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "778,444"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",
+            "Movie-Name": "Gladiator"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,418,934"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1931",
+            "Movie-Details": "Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",
+            "Movie-Name": "City Lights"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "178,038"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2006",
+            "Movie-Details": "Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",
+            "Movie-Name": "The Departed"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,256,602"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2011",
+            "Movie-Details": "Olivier Nakache (dir.), François Cluzet, Omar Sy",
+            "Movie-Name": "The Intouchables"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "808,672"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2006",
+            "Movie-Details": "Christopher Nolan (dir.), Christian Bale, Hugh Jackman",
+            "Movie-Name": "The Prestige"
+        },
+        "rating_details": {
+            "ratings": "8.5",
+            "total-user-ratings": "1,262,404"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1942",
+            "Movie-Details": "Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",
+            "Movie-Name": "Casablanca"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "548,692"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1968",
+            "Movie-Details": "Sergio Leone (dir.), Henry Fonda, Charles Bronson",
+            "Movie-Name": "Once Upon a Time in the West"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "317,662"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1954",
+            "Movie-Details": "Alfred Hitchcock (dir.), James Stewart, Grace Kelly",
+            "Movie-Name": "Rear Window"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "471,106"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1988",
+            "Movie-Details": "Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",
+            "Movie-Name": "Nuovo Cinema Paradiso"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "248,702"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1979",
+            "Movie-Details": "Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",
+            "Movie-Name": "Alien"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "834,754"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1979",
+            "Movie-Details": "Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",
+            "Movie-Name": "Apocalypse Now"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "637,702"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",
+            "Movie-Name": "Memento"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "1,182,203"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1981",
+            "Movie-Details": "Steven Spielberg (dir.), Harrison Ford, Karen Allen",
+            "Movie-Name": "Raiders of the Lost Ark"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "926,388"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1940",
+            "Movie-Details": "Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",
+            "Movie-Name": "The Great Dictator"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "215,500"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2012",
+            "Movie-Details": "Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",
+            "Movie-Name": "Django Unchained"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "1,451,008"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2006",
+            "Movie-Details": "Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",
+            "Movie-Name": "The Lives of Others"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "376,563"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",
+            "Movie-Name": "Paths of Glory"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "189,384"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1950",
+            "Movie-Details": "Billy Wilder (dir.), William Holden, Gloria Swanson",
+            "Movie-Name": "Sunset Blvd."
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "213,570"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2008",
+            "Movie-Details": "Andrew Stanton (dir.), Ben Burtt, Elissa Knight",
+            "Movie-Name": "WALL·E"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "1,056,121"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2018",
+            "Movie-Details": "Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",
+            "Movie-Name": "Avengers: Infinity War"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "954,048"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",
+            "Movie-Name": "Witness for the Prosecution"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "118,324"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1980",
+            "Movie-Details": "Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",
+            "Movie-Name": "The Shining"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "959,664"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2018",
+            "Movie-Details": "Bob Persichetti (dir.), Shameik Moore, Jake Johnson",
+            "Movie-Name": "Spider-Man: Into the Spider-Verse"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "448,799"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1964",
+            "Movie-Details": "Stanley Kubrick (dir.), Peter Sellers, George C. Scott",
+            "Movie-Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+        },
+        "rating_details": {
+            "ratings": "8.4",
+            "total-user-ratings": "472,024"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",
+            "Movie-Name": "Mononoke-hime"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "370,742"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2003",
+            "Movie-Details": "Park Chan-Wook (dir.), Choi Min-sik, Yoo Ji-Tae",
+            "Movie-Name": "Oldeuboi"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "548,909"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",
+            "Movie-Name": "Joker"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "1,111,677"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2016",
+            "Movie-Details": "Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",
+            "Movie-Name": "Kimi no na wa."
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "233,621"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2017",
+            "Movie-Details": "Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",
+            "Movie-Name": "Coco"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "446,953"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2012",
+            "Movie-Details": "Christopher Nolan (dir.), Christian Bale, Tom Hardy",
+            "Movie-Name": "The Dark Knight Rises"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "1,599,371"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1986",
+            "Movie-Details": "James Cameron (dir.), Sigourney Weaver, Michael Biehn",
+            "Movie-Name": "Aliens"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "686,669"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1984",
+            "Movie-Details": "Sergio Leone (dir.), Robert De Niro, James Woods",
+            "Movie-Name": "Once Upon a Time in America"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "334,368"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Anthony Russo (dir.), Robert Downey Jr., Chris Evans",
+            "Movie-Name": "Avengers: Endgame"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "977,511"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2018",
+            "Movie-Details": "Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",
+            "Movie-Name": "Capharnaüm"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "79,032"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1981",
+            "Movie-Details": "Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",
+            "Movie-Name": "Das Boot"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "242,920"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1963",
+            "Movie-Details": "Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",
+            "Movie-Name": "Tengoku to jigoku"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "40,782"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Rajkumar Hirani (dir.), Aamir Khan, Madhavan",
+            "Movie-Name": "3 Idiots"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "373,767"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "John Lasseter (dir.), Tom Hanks, Tim Allen",
+            "Movie-Name": "Toy Story"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "939,039"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1999",
+            "Movie-Details": "Sam Mendes (dir.), Kevin Spacey, Annette Bening",
+            "Movie-Name": "American Beauty"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "1,114,294"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1984",
+            "Movie-Details": "Milos Forman (dir.), F. Murray Abraham, Tom Hulce",
+            "Movie-Name": "Amadeus"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "386,223"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Mel Gibson (dir.), Mel Gibson, Sophie Marceau",
+            "Movie-Name": "Braveheart"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "997,757"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",
+            "Movie-Name": "Inglourious Basterds"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "1,354,289"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2020",
+            "Movie-Details": "Thomas Kail (dir.), Lin-Manuel Miranda, Phillipa Soo",
+            "Movie-Name": "Hamilton"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "78,543"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Gus Van Sant (dir.), Robin Williams, Matt Damon",
+            "Movie-Name": "Good Will Hunting"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "913,695"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1983",
+            "Movie-Details": "Richard Marquand (dir.), Mark Hamill, Harrison Ford",
+            "Movie-Name": "Star Wars: Episode VI - Return of the Jedi"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "997,971"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1968",
+            "Movie-Details": "Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",
+            "Movie-Name": "2001: A Space Odyssey"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "637,850"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1992",
+            "Movie-Details": "Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",
+            "Movie-Name": "Reservoir Dogs"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "969,355"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1985",
+            "Movie-Details": "Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",
+            "Movie-Name": "Idi i smotri"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "70,344"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2007",
+            "Movie-Details": "Aamir Khan (dir.), Darsheel Safary, Aamir Khan",
+            "Movie-Name": "Taare Zameen Par"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "183,440"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1931",
+            "Movie-Details": "Fritz Lang (dir.), Peter Lorre, Ellen Widmann",
+            "Movie-Name": "M - Eine Stadt sucht einen Mörder"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "152,350"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1958",
+            "Movie-Details": "Alfred Hitchcock (dir.), James Stewart, Kim Novak",
+            "Movie-Name": "Vertigo"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "386,829"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1941",
+            "Movie-Details": "Orson Welles (dir.), Orson Welles, Joseph Cotten",
+            "Movie-Name": "Citizen Kane"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "426,789"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2012",
+            "Movie-Details": "Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",
+            "Movie-Name": "Jagten"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "309,327"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",
+            "Movie-Name": "Requiem for a Dream"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "803,844"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1952",
+            "Movie-Details": "Stanley Donen (dir.), Gene Kelly, Donald O'Connor",
+            "Movie-Name": "Singin' in the Rain"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "231,465"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1959",
+            "Movie-Details": "Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",
+            "Movie-Name": "North by Northwest"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "315,643"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Michel Gondry (dir.), Jim Carrey, Kate Winslet",
+            "Movie-Name": "Eternal Sunshine of the Spotless Mind"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "959,242"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1952",
+            "Movie-Details": "Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",
+            "Movie-Name": "Ikiru"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "74,835"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1948",
+            "Movie-Details": "Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",
+            "Movie-Name": "Ladri di biciclette"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "157,532"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1962",
+            "Movie-Details": "David Lean (dir.), Peter O'Toole, Alec Guinness",
+            "Movie-Name": "Lawrence of Arabia"
+        },
+        "rating_details": {
+            "ratings": "8.3",
+            "total-user-ratings": "282,554"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1921",
+            "Movie-Details": "Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",
+            "Movie-Name": "The Kid"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "121,628"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1987",
+            "Movie-Details": "Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",
+            "Movie-Name": "Full Metal Jacket"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "709,331"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2016",
+            "Movie-Details": "Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",
+            "Movie-Name": "Dangal"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "175,235"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2010",
+            "Movie-Details": "Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",
+            "Movie-Name": "Incendies"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "166,361"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1960",
+            "Movie-Details": "Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",
+            "Movie-Name": "The Apartment"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "174,256"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2020",
+            "Movie-Details": "Florian Zeller (dir.), Anthony Hopkins, Olivia Colman",
+            "Movie-Name": "The Father"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "111,413"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1927",
+            "Movie-Details": "Fritz Lang (dir.), Brigitte Helm, Alfred Abel",
+            "Movie-Name": "Metropolis"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "168,560"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1944",
+            "Movie-Details": "Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",
+            "Movie-Name": "Double Indemnity"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "151,530"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1971",
+            "Movie-Details": "Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",
+            "Movie-Name": "A Clockwork Orange"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "794,499"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1976",
+            "Movie-Details": "Martin Scorsese (dir.), Robert De Niro, Jodie Foster",
+            "Movie-Name": "Taxi Driver"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "772,717"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2011",
+            "Movie-Details": "Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",
+            "Movie-Name": "Jodaeiye Nader az Simin"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "234,684"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1973",
+            "Movie-Details": "George Roy Hill (dir.), Paul Newman, Robert Redford",
+            "Movie-Name": "The Sting"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "252,934"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1983",
+            "Movie-Details": "Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",
+            "Movie-Name": "Scarface"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "789,471"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Guy Ritchie (dir.), Jason Statham, Brad Pitt",
+            "Movie-Name": "Snatch"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "820,708"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1955",
+            "Movie-Details": "Satyajit Ray (dir.), Kanu Bannerjee, Karuna Bannerjee",
+            "Movie-Name": "Pather Panchali"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "29,694"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",
+            "Movie-Name": "1917"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "514,929"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2001",
+            "Movie-Details": "Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",
+            "Movie-Name": "Le fabuleux destin d'Amélie Poulain"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "731,190"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1962",
+            "Movie-Details": "Robert Mulligan (dir.), Gregory Peck, John Megna",
+            "Movie-Name": "To Kill a Mockingbird"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "306,816"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2010",
+            "Movie-Details": "Lee Unkrich (dir.), Tom Hanks, Tim Allen",
+            "Movie-Name": "Toy Story 3"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "795,241"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1965",
+            "Movie-Details": "Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",
+            "Movie-Name": "Per qualche dollaro in più"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "246,402"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Pete Docter (dir.), Ed Asner, Jordan Nagai",
+            "Movie-Name": "Up"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "988,153"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1989",
+            "Movie-Details": "Steven Spielberg (dir.), Harrison Ford, Sean Connery",
+            "Movie-Name": "Indiana Jones and the Last Crusade"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "724,674"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Michael Mann (dir.), Al Pacino, Robert De Niro",
+            "Movie-Name": "Heat"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "617,659"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",
+            "Movie-Name": "L.A. Confidential"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "559,291"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1961",
+            "Movie-Details": "Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",
+            "Movie-Name": "Yôjinbô"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "118,579"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1985",
+            "Movie-Details": "Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",
+            "Movie-Name": "Ran"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "120,870"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1988",
+            "Movie-Details": "John McTiernan (dir.), Bruce Willis, Alan Rickman",
+            "Movie-Name": "Die Hard"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "834,059"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1950",
+            "Movie-Details": "Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",
+            "Movie-Name": "Rashômon"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "162,032"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2018",
+            "Movie-Details": "Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",
+            "Movie-Name": "Green Book"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "439,199"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2021",
+            "Movie-Details": "T.J. Gnanavel (dir.), Suriya, Lijo Mol Jose",
+            "Movie-Name": "Jai Bhim"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "160,130"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",
+            "Movie-Name": "Der Untergang"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "344,619"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1975",
+            "Movie-Details": "Terry Gilliam (dir.), Graham Chapman, John Cleese",
+            "Movie-Name": "Monty Python and the Holy Grail"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "522,701"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1950",
+            "Movie-Details": "Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",
+            "Movie-Name": "All About Eve"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "127,278"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1959",
+            "Movie-Details": "Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",
+            "Movie-Name": "Some Like It Hot"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "256,915"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2005",
+            "Movie-Details": "Christopher Nolan (dir.), Christian Bale, Michael Caine",
+            "Movie-Name": "Batman Begins"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "1,377,323"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1992",
+            "Movie-Details": "Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",
+            "Movie-Name": "Unforgiven"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "396,348"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",
+            "Movie-Name": "Bacheha-Ye aseman"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "71,468"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",
+            "Movie-Name": "Hauru no ugoku shiro"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "364,984"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2013",
+            "Movie-Details": "Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",
+            "Movie-Name": "The Wolf of Wall Street"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "1,291,714"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1961",
+            "Movie-Details": "Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",
+            "Movie-Name": "Judgment at Nuremberg"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "74,560"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1963",
+            "Movie-Details": "John Sturges (dir.), Steve McQueen, James Garner",
+            "Movie-Name": "The Great Escape"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "236,066"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2007",
+            "Movie-Details": "Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",
+            "Movie-Name": "There Will Be Blood"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "553,290"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Martin Scorsese (dir.), Robert De Niro, Sharon Stone",
+            "Movie-Name": "Casino"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "494,310"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1948",
+            "Movie-Details": "John Huston (dir.), Humphrey Bogart, Walter Huston",
+            "Movie-Name": "The Treasure of the Sierra Madre"
+        },
+        "rating_details": {
+            "ratings": "8.2",
+            "total-user-ratings": "120,994"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2006",
+            "Movie-Details": "Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",
+            "Movie-Name": "Pan's Labyrinth"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "644,909"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2001",
+            "Movie-Details": "Ron Howard (dir.), Russell Crowe, Ed Harris",
+            "Movie-Name": "A Beautiful Mind"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "891,323"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",
+            "Movie-Name": "El secreto de sus ojos"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "202,970"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1980",
+            "Movie-Details": "Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",
+            "Movie-Name": "Raging Bull"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "339,248"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1975",
+            "Movie-Details": "Akira Kurosawa (dir.), Maksim Munzuk, Yuriy Solomin",
+            "Movie-Name": "Dersu Uzala"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "26,377"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1974",
+            "Movie-Details": "Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",
+            "Movie-Name": "Chinatown"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "313,081"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1988",
+            "Movie-Details": "Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",
+            "Movie-Name": "Tonari no Totoro"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "316,640"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1998",
+            "Movie-Details": "Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",
+            "Movie-Name": "Lock, Stock and Two Smoking Barrels"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "560,973"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2010",
+            "Movie-Details": "Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",
+            "Movie-Name": "Shutter Island"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "1,217,954"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2007",
+            "Movie-Details": "Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",
+            "Movie-Name": "No Country for Old Men"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "915,321"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1925",
+            "Movie-Details": "Charles Chaplin (dir.), Charles Chaplin, Mack Swain",
+            "Movie-Name": "The Gold Rush"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "107,590"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1954",
+            "Movie-Details": "Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",
+            "Movie-Name": "Dial M for Murder"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "168,824"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1982",
+            "Movie-Details": "John Carpenter (dir.), Kurt Russell, Wilford Brimley",
+            "Movie-Name": "The Thing"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "399,310"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",
+            "Movie-Name": "Klaus"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "128,861"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",
+            "Movie-Name": "Det sjunde inseglet"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "177,802"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2017",
+            "Movie-Details": "Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",
+            "Movie-Name": "Three Billboards Outside Ebbing, Missouri"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "474,674"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1980",
+            "Movie-Details": "David Lynch (dir.), Anthony Hopkins, John Hurt",
+            "Movie-Name": "The Elephant Man"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "232,855"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1999",
+            "Movie-Details": "M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",
+            "Movie-Name": "The Sixth Sense"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "951,341"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",
+            "Movie-Name": "Smultronstället"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "103,467"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1998",
+            "Movie-Details": "Peter Weir (dir.), Jim Carrey, Ed Harris",
+            "Movie-Name": "The Truman Show"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "1,004,946"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1993",
+            "Movie-Details": "Steven Spielberg (dir.), Sam Neill, Laura Dern",
+            "Movie-Name": "Jurassic Park"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "921,636"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1949",
+            "Movie-Details": "Carol Reed (dir.), Orson Welles, Joseph Cotten",
+            "Movie-Name": "The Third Man"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "166,848"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2003",
+            "Movie-Details": "Bong Joon Ho (dir.), Kang-ho Song, Kim Sang-kyung",
+            "Movie-Name": "Salinui chueok"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "164,138"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2005",
+            "Movie-Details": "James McTeigue (dir.), Hugo Weaving, Natalie Portman",
+            "Movie-Name": "V for Vendetta"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "1,079,430"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1982",
+            "Movie-Details": "Ridley Scott (dir.), Harrison Ford, Rutger Hauer",
+            "Movie-Name": "Blade Runner"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "732,717"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1996",
+            "Movie-Details": "Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",
+            "Movie-Name": "Trainspotting"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "662,320"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2015",
+            "Movie-Details": "Pete Docter (dir.), Amy Poehler, Bill Hader",
+            "Movie-Name": "Inside Out"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "664,800"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "David Lean (dir.), William Holden, Alec Guinness",
+            "Movie-Name": "The Bridge on the River Kwai"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "213,170"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1996",
+            "Movie-Details": "Joel Coen (dir.), William H. Macy, Frances McDormand",
+            "Movie-Name": "Fargo"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "650,329"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2003",
+            "Movie-Details": "Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",
+            "Movie-Name": "Finding Nemo"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "994,919"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2011",
+            "Movie-Details": "Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",
+            "Movie-Name": "Warrior"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "454,093"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2021",
+            "Movie-Details": "Denis Villeneuve (dir.), Timothée Chalamet, Rebecca Ferguson",
+            "Movie-Name": "Dune: Part One"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "399,401"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2003",
+            "Movie-Details": "Quentin Tarantino (dir.), Uma Thurman, David Carradine",
+            "Movie-Name": "Kill Bill: Vol. 1"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "1,059,826"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1939",
+            "Movie-Details": "Victor Fleming (dir.), Clark Gable, Vivien Leigh",
+            "Movie-Name": "Gone with the Wind"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "304,194"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1953",
+            "Movie-Details": "Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",
+            "Movie-Name": "Tôkyô monogatari"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "58,659"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1954",
+            "Movie-Details": "Elia Kazan (dir.), Marlon Brando, Karl Malden",
+            "Movie-Name": "On the Waterfront"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "149,941"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2005",
+            "Movie-Details": "Cagan Irmak (dir.), Eser Sariyar, Çetin Tekindor",
+            "Movie-Name": "Babam ve Oglum"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "83,980"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2014",
+            "Movie-Details": "Damián Szifron (dir.), Darío Grandinetti, María Marull",
+            "Movie-Name": "Relatos salvajes"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "189,314"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1979",
+            "Movie-Details": "Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",
+            "Movie-Name": "Stalker"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "128,319"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1978",
+            "Movie-Details": "Michael Cimino (dir.), Robert De Niro, Christopher Walken",
+            "Movie-Name": "The Deer Hunter"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "327,760"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2013",
+            "Movie-Details": "Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",
+            "Movie-Name": "Prisoners"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "652,477"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2014",
+            "Movie-Details": "Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",
+            "Movie-Name": "The Grand Budapest Hotel"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "758,558"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1926",
+            "Movie-Details": "Clyde Bruckman (dir.), Buster Keaton, Marion Mack",
+            "Movie-Name": "The General"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "87,902"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2008",
+            "Movie-Details": "Clint Eastwood (dir.), Clint Eastwood, Bee Vang",
+            "Movie-Name": "Gran Torino"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "749,048"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1924",
+            "Movie-Details": "Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",
+            "Movie-Name": "Sherlock Jr."
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "46,850"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1969",
+            "Movie-Details": "Costa-Gavras (dir.), Yves Montand, Irene Papas",
+            "Movie-Name": "Z"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "26,735"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1966",
+            "Movie-Details": "Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",
+            "Movie-Name": "Persona"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "112,453"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
+            "Movie-Name": "Before Sunrise"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "290,945"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",
+            "Movie-Name": "Mary and Max."
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "172,242"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2002",
+            "Movie-Details": "Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",
+            "Movie-Name": "Catch Me If You Can"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "904,985"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1939",
+            "Movie-Details": "Frank Capra (dir.), James Stewart, Jean Arthur",
+            "Movie-Name": "Mr. Smith Goes to Washington"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "112,466"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1993",
+            "Movie-Details": "Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",
+            "Movie-Name": "In the Name of the Father"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "167,784"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1975",
+            "Movie-Details": "Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",
+            "Movie-Name": "Barry Lyndon"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "160,433"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2015",
+            "Movie-Details": "Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",
+            "Movie-Name": "Room"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "398,114"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2014",
+            "Movie-Details": "David Fincher (dir.), Ben Affleck, Rosamund Pike",
+            "Movie-Name": "Gone Girl"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "923,848"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2016",
+            "Movie-Details": "Mel Gibson (dir.), Andrew Garfield, Sam Worthington",
+            "Movie-Name": "Hacksaw Ridge"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "478,804"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1928",
+            "Movie-Details": "Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",
+            "Movie-Name": "La passion de Jeanne d'Arc"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "52,174"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2018",
+            "Movie-Details": "Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",
+            "Movie-Name": "Andhadhun"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "85,345"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "James Mangold (dir.), Matt Damon, Christian Bale",
+            "Movie-Name": "Ford v Ferrari"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "346,604"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2013",
+            "Movie-Details": "Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",
+            "Movie-Name": "12 Years a Slave"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "671,806"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1942",
+            "Movie-Details": "Ernst Lubitsch (dir.), Carole Lombard, Jack Benny",
+            "Movie-Name": "To Be or Not to Be"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "34,623"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1998",
+            "Movie-Details": "Joel Coen (dir.), Jeff Bridges, John Goodman",
+            "Movie-Name": "The Big Lebowski"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "774,672"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1989",
+            "Movie-Details": "Peter Weir (dir.), Robin Williams, Robert Sean Leonard",
+            "Movie-Name": "Dead Poets Society"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "456,764"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2010",
+            "Movie-Details": "Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",
+            "Movie-Name": "How to Train Your Dragon"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "702,169"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1978",
+            "Movie-Details": "Ingmar Bergman (dir.), Ingrid Bergman, Liv Ullmann",
+            "Movie-Name": "Höstsonaten"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "32,341"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2015",
+            "Movie-Details": "George Miller (dir.), Tom Hardy, Charlize Theron",
+            "Movie-Name": "Mad Max: Fury Road"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "942,638"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1959",
+            "Movie-Details": "William Wyler (dir.), Charlton Heston, Jack Hawkins",
+            "Movie-Name": "Ben-Hur"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "230,794"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2011",
+            "Movie-Details": "David Yates (dir.), Daniel Radcliffe, Emma Watson",
+            "Movie-Name": "Harry Potter and the Deathly Hallows: Part 2"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "816,457"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",
+            "Movie-Name": "Million Dollar Baby"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "663,785"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2016",
+            "Movie-Details": "Park Chan-Wook (dir.), Kim Min-hee, Ha Jung-woo",
+            "Movie-Name": "Ah-ga-ssi"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "131,859"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1953",
+            "Movie-Details": "Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",
+            "Movie-Name": "Le salaire de la peur"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "58,871"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1986",
+            "Movie-Details": "Rob Reiner (dir.), Wil Wheaton, River Phoenix",
+            "Movie-Name": "Stand by Me"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "384,057"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1976",
+            "Movie-Details": "Sidney Lumet (dir.), Faye Dunaway, William Holden",
+            "Movie-Name": "Network"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "153,810"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2012",
+            "Movie-Details": "Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",
+            "Movie-Name": "Gangs of Wasseypur"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "91,287"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2017",
+            "Movie-Details": "James Mangold (dir.), Hugh Jackman, Patrick Stewart",
+            "Movie-Name": "Logan"
+        },
+        "rating_details": {
+            "ratings": "8.1",
+            "total-user-ratings": "702,169"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1967",
+            "Movie-Details": "Stuart Rosenberg (dir.), Paul Newman, George Kennedy",
+            "Movie-Name": "Cool Hand Luke"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "171,661"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2009",
+            "Movie-Details": "Lasse Hallström (dir.), Richard Gere, Joan Allen",
+            "Movie-Name": "Hachi: A Dog's Tale"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "270,204"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1995",
+            "Movie-Details": "Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",
+            "Movie-Name": "La haine"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "162,956"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2016",
+            "Movie-Details": "Naoko Yamada (dir.), Miyu Irino, Saori Hayami",
+            "Movie-Name": "Koe no katachi"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "67,602"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1959",
+            "Movie-Details": "François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",
+            "Movie-Name": "Les quatre cents coups"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "112,870"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1986",
+            "Movie-Details": "Oliver Stone (dir.), Charlie Sheen, Tom Berenger",
+            "Movie-Name": "Platoon"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "399,072"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2015",
+            "Movie-Details": "Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",
+            "Movie-Name": "Spotlight"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "448,538"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2001",
+            "Movie-Details": "Pete Docter (dir.), Billy Crystal, John Goodman",
+            "Movie-Name": "Monsters, Inc."
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "861,572"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1940",
+            "Movie-Details": "Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",
+            "Movie-Name": "Rebecca"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "132,508"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1979",
+            "Movie-Details": "Terry Jones (dir.), Graham Chapman, John Cleese",
+            "Movie-Name": "Life of Brian"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "385,513"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1996",
+            "Movie-Details": "Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",
+            "Movie-Name": "Eskiya"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "68,447"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Terry George (dir.), Don Cheadle, Sophie Okonedo",
+            "Movie-Name": "Hotel Rwanda"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "346,214"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",
+            "Movie-Name": "Fa Yeung Nin Wah"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "139,818"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2013",
+            "Movie-Details": "Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",
+            "Movie-Name": "Rush"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "458,259"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2007",
+            "Movie-Details": "Sean Penn (dir.), Emile Hirsch, Vince Vaughn",
+            "Movie-Name": "Into the Wild"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "600,770"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2000",
+            "Movie-Details": "Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",
+            "Movie-Name": "Amores perros"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "233,948"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1976",
+            "Movie-Details": "John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",
+            "Movie-Name": "Rocky"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "546,733"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1984",
+            "Movie-Details": "Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",
+            "Movie-Name": "Kaze no tani no Naushika"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "162,309"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1934",
+            "Movie-Details": "Frank Capra (dir.), Clark Gable, Claudette Colbert",
+            "Movie-Name": "It Happened One Night"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "99,987"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1966",
+            "Movie-Details": "Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",
+            "Movie-Name": "Andrei Rublev"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "51,627"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2004",
+            "Movie-Details": "Richard Linklater (dir.), Ethan Hawke, Julie Delpy",
+            "Movie-Name": "Before Sunset"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "251,126"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1997",
+            "Movie-Details": "Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",
+            "Movie-Name": "Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "48,752"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1982",
+            "Movie-Details": "Ingmar Bergman (dir.), Bertil Guve, Pernilla Allwin",
+            "Movie-Name": "Fanny och Alexander"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "61,759"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1966",
+            "Movie-Details": "Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin",
+            "Movie-Name": "La battaglia di Algeri"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "57,622"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1957",
+            "Movie-Details": "Federico Fellini (dir.), Giulietta Masina, François Périer",
+            "Movie-Name": "Le notti di Cabiria"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "46,885"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1987",
+            "Movie-Details": "Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",
+            "Movie-Name": "The Princess Bride"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "413,708"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "1984",
+            "Movie-Details": "Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",
+            "Movie-Name": "Paris, Texas"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "101,088"
+        }
+    },
+    {
+        "title_details": {
+            "Movie-Year": "2019",
+            "Movie-Details": "Mehmet Ada Öztekin (dir.), Aras Bulut Iynemli, Nisa Sofiya Aksongur",
+            "Movie-Name": "Miracle in Cell No. 7"
+        },
+        "rating_details": {
+            "ratings": "8.0",
+            "total-user-ratings": "43,996"
+        }
+    }
+]
