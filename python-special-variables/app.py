@@ -8,8 +8,8 @@ class SpecialVariables:
     def __init__(self):
         print("Initializing Objects for the class Special Varaiables")
         
-    def apply_line_separator(self,defaultLen=75):
-        print("*"*75)
+    def apply_line_separator(self,defaultSym="*",defaultLen=75):
+        print(defaultSym*defaultLen)
         
 special_ins  = SpecialVariables()    
 # Helps us to know the name of the current class
@@ -34,9 +34,9 @@ print("Current-Directory-abs :: ",abs_path)
 special_ins.apply_line_separator()
 
 # Helps us to retrive the doc string from the Class.
-print(SpecialVariables.__doc__)
-print(os.__doc__)
-print(os.getcwd().__doc__)
+print("__doc_ for the current class",SpecialVariables.__doc__)
+print("Retriving __doc__ for the Module os :: ",os.__doc__)
+print("Retriving the __doc__ for the Method in the Module os :: ",os.getcwd().__doc__)
 special_ins.apply_line_separator()
 
 print(special_ins.__class__)
