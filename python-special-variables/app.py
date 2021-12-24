@@ -35,6 +35,8 @@ special_ins.apply_line_separator()
 
 # Helps us to retrive the doc string from the Class.
 print(SpecialVariables.__doc__)
+print(os.__doc__)
+print(os.getcwd().__doc__)
 special_ins.apply_line_separator()
 
 print(special_ins.__class__)
