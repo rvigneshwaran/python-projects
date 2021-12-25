@@ -6,6 +6,9 @@ class DateDeltaEvaluator:
     
     def __init__(self):
         print("Initializing Components in data delta evaluator")
+        
+    def getCurrentTime(self):
+        return datetime.now()
 
     def getDifferentBwDateObjects(self,inputDate1,inputDate2):
         deltaInstance = inputDate1 - inputDate2
@@ -39,3 +42,6 @@ inputDate1 = "4/29/2021"
 inputDate2 = "12/30/2021"
 print("Date Difference of Text Objects using Pandas :: ")
 print(instanceDate.getDateDiffUsingPandas(inputDate1,inputDate2))
+
+# to retrive the current time using the datetime
+print("Current Time :: ",instanceDate.getCurrentTime())
