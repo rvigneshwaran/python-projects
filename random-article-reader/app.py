@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import warnings
+import re
 
 warnings.filterwarnings("ignore")
 
@@ -49,4 +50,4 @@ contends_text = random_art.fetch_url_contends(soup_instance)
 print(contends_text)
 random_art.print_lineseparator("*",150)
 contends_text,contends_element = random_art.fetch_master_contends(soup_instance)
-print(contends_text.strip('\n'))
+print(re.sub('\s{2,}', ' ', contends_text))
