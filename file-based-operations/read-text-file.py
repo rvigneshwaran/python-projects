@@ -3,7 +3,7 @@ class ReadTextFile:
     
     def __init__(self,inputFilePath):
         if inputFilePath is None:
-            self.input_file_path = "/Users/blindspot/Desktop/python-projects/file-based-operations/input-data/sample.txt"
+            self.input_file_path = "/input-data/sample.txt"
         else:
             self.input_file_path =  inputFilePath
     
