@@ -11,11 +11,12 @@ class ParseAllFiles:
         if pathName is None:
             self.pathName = ""
             
-    def walthrough_all_filesfolders(self):
+    def walthrough_all_filesfolders(self,filterFileType):
         file_instance = []
         for (root, dirs, fileNameList) in walk(self.pathName):
             for file in fileNameList:
-                file_instance.append(os.path.join(root,file))
+                if file.endswith(filterFileType):
+                    file_instance.append(os.path.join(root,file))
         return file_instance
         
     def list_only_files(self):
@@ -38,7 +39,7 @@ print(file_ins.list_only_files())
 file_ins.print_line_separator()
 
 # List the file names using the walk
-print(file_ins.walthrough_all_filesfolders())
+print(file_ins.walthrough_all_filesfolders(".py"))
 file_ins.print_line_separator()
 
 # List the file names using the glob module
