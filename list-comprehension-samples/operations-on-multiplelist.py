@@ -30,3 +30,10 @@ default_value = 10
 default_dict = {input_list[index] : default_value for index in range(0,len(input_list))}
 print(default_dict)
 print("*"*100)
+
+# Map keys and values from the List
+value_list = ["google","amazon","microsoft"]
+key_list = ["G","A","M"]
+created_dict = {key_list[index] : value_list[index] for index in range(0,len(key_list))}
+print(created_dict)
+print("*"*100)
