@@ -1,3 +1,5 @@
+import random 
+
 manchester_list = ["MARCUS RASHFORD","CRISTIANO RONALDO","BRUNO FERNANDES","FRED","SCOTT MCTOMINAY","JADON SANCHO","ALEX TELLES","HARRY MAGUIRE","VICTO LINDELOF","DIOGO DALOT","DAVID DE GEA","JESSE LINGARD"]
 
 class ListOperations:
@@ -34,6 +36,50 @@ class ListOperations:
             for index,element in enumerate(inputElement):
                 print("Element :: "+element+" is present in the index :: "+str(index))
                 
+    def append_list(self,inputList1,inputList2,doesmanintainCopy):
+        result = []
+        if doesmanintainCopy:
+            result = inputList1.copy()
+            result.extend(inputList2)
+        inputList1.extend(inputList2)
+        return inputList1,inputList2,result
+    
+    def reverseList(self,inputElement,withoutFn):
+        if inputElement is not None and not withoutFn:
+            return inputElement.reverse()
+        elif inputElement is not None and withoutFn:
+            return inputElement[::-1]
+        else:
+            return inputElement
+        
+    def sort_list(self,inputElement,shouldReversed):
+        if inputElement is not None and not shouldReversed:
+            return inputElement.sort()
+        elif inputElement is not None and shouldReversed:
+            return inputElement.sort(reverse=True)
+        
+    def shuffle_list(self,inputElement):
+        if inputElement is not None:
+            return random.shuffle(inputElement)
+        else:
+            return inputElement
+        
+    def check_listempty(self,inputElement):
+        if not inputElement:
+            print("The Input list is empty")
+        else:
+            print("The Input list is not Empty")
+        if len(inputElement) == 0:
+            print("The Input list is empty")
+        else:
+            print("The Inputlist is not empty")
+    
+    def check_element_inlist(self,inputElement,element):
+        if inputElement is not None and element in inputElement:
+            print("Element :: "+element+" is present in the input list")
+        else:
+            print("Element :: "+element+" is NOT Present in the input list")
+            
     def list_management(self,inputElement):
         if inputElement is not None:
             # Adding Items in to the list
