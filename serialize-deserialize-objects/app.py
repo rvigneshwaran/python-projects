@@ -7,12 +7,13 @@ import json
 
 class SerializeDeserializeObjects:
     
-    def __init__(self,max_length):
+    def __init__(self,max_length,file_name):
         print("Initializing Components")
         if max_length is None:
             self.max_length = 100
         else:
             self.max_length = max_length
+        self.file_name = file_name
     
     def create_random_names(self,max_size=10):
         choice_of_letters = [random.choice(string.ascii_letters) for index in range(max_size)]
@@ -32,26 +33,42 @@ class SerializeDeserializeObjects:
     
     def persist_data_pickle(self,complex_store):
         try:
-            file_instance = open('store/complex_store.model', 'ab')
+            file_instance = open(self.file_name, 'wb')
             pickle.dump(complex_store, file_instance)
             file_instance.close()
             print("Data Serialized Successfully !!!! ")
         except:
             print("Exception occured while executing the method persist_data_picke :: ",str(traceback.print_exc()))
             
-    def retrive_persisted_data(self,fileName):
+    def write_data_file(self,output_response):
+        output_file = "outputs/response-data.json"
         try:
-            file_instance = open('store/complex_store.model', 'rb')     
+            if output_file is not None:
+                with open(output_file, "w") as outfile:
+                    json.dump(output_response, outfile,indent=4,)
+        except:
+            print("Exception occured while executing the method write_data_file")
+            print(traceback.print_exc())
+
+    def retrive_persisted_data(self):
+        try:
+            file_instance = open(self.file_name, 'rb')     
             complex_store = pickle.load(file_instance)
-            result = json.dumps(complex_store,sort_keys=True, indent=4)
-            print(result)
-            file_instance.close()
-            print("Data deserialzed Successfully !!!! ")
+            if complex_store is not None:
+                result = json.dumps(complex_store)
+                json_result = json.loads(result)
+                self.write_data_file(json_result)
+                print("Data deserialzed Successfully !!!! ")
+            else:
+                print("Data NOT deserialzed Successfully !!!! ")
+            #file_instance.close()
         except:
             print("Exception occured while executing the method persist_data_picke :: ",str(traceback.print_exc()))
-            
-object_instance = SerializeDeserializeObjects(None)
+
+file_name = 'store/complex_store.model'            
+object_instance = SerializeDeserializeObjects(100,file_name)
 complex_store = object_instance.create_components()
-print(complex_store[0:1])
-object_instance.persist_data_pickle(complex_store)
-object_instance.retrive_persisted_data("")
+if complex_store is not None:
+    print(complex_store[0:1])
+    object_instance.persist_data_pickle(complex_store)
+    object_instance.retrive_persisted_data()
