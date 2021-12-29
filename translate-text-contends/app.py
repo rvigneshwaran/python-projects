@@ -35,6 +35,7 @@ class TranslateContends:
     
     def write_data_file(self,output_response):
         output_file = "outputs/response-data.json"
+        #TODO Read the contends of the existing file and append the contends , Not rewrite the contends to the file
         existing_contends = self.read_json_file(output_file)
         try:
             if output_file is not None:
