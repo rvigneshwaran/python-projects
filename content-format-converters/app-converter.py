@@ -13,6 +13,7 @@ class ContentFormatConverter:
             file_instance = open(input_json_path)
             json_data = json.load(file_instance)
             input_json_colors = json_data["colors"]
+            # TODO if its a nested JSON it has to recursively iterated to find out whether its an instance of a list or dict and then then the final json should be formed before sending the input to convert to csv.
             outpt_df = pd.DataFrame.from_records(input_json_colors)
         except:
             exception_trace = str(traceback.format_exc())
