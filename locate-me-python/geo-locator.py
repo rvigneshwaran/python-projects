@@ -1,5 +1,8 @@
 from geopy.geocoders import Nominatim
+from geopy import geocoders
+from geopy.distance import geodesic
 import json
+import traceback
 
 geolocator = Nominatim(user_agent="GeoLocatorComponent")
 
@@ -49,12 +52,40 @@ class GeoLocatorComponent:
         if location_ins is not None :
             address = location_ins.raw
         return address
+    
+    def calculate_distance(self,source_place,dest_place,units="km"):
+        distance_value = None
+        try:
+            source = geolocator.geocode(source_place)
+            source_coord = (source.latitude,source.longitude)
+            print("The Coordinates for the source location :: "+source_place+" is "+str(source_coord))
+            destination = geolocator.geocode(dest_place)
+            dest_coord = (destination.latitude,destination.longitude)
+            print("The Coordinates for the destination location :: "+dest_place+" is "+str(dest_coord))
+            if units == "km":
+                distance_value = geodesic(source_coord, dest_coord).kilometers
+            elif units == "miles":
+                distance_value = geodesic(source_coord, dest_coord).miles
+            elif units == "m":
+                distance_value = geodesic(source_coord, dest_coord).meters
+        except:
+            error_response = str(traceback.format_exc())
+            print("Exception Occured while executing the method :: calculate_distance "+error_response)
+        return distance_value
         
 geo_locate = GeoLocatorComponent()
 coord_inst = geo_locate.decode_coord_byplace("Coimbatore")
 print("Decoded :: ",coord_inst)
 geo_locate.apply_separator()
+
 coord_input = "11.028,76.902"
 located_place = geo_locate.decode_place(coord_input)
 print(geo_locate.pretty_print(located_place))
+geo_locate.apply_separator()
+
+source_place = "Coimbatore"
+destination_place = "Chennai"
+units = "km"
+distance_value = geo_locate.calculate_distance(source_place,destination_place,units)
+print("The distance between source :: "+source_place+" and destination place :: "+destination_place+ " is :: "+str(distance_value) + " "+ units)
 geo_locate.apply_separator()
