@@ -76,9 +76,35 @@ class WikiContentExtracter:
             error_response = str(traceback.format_exc())
             print("Exception occured while executing the method write_contends_file ::"+error_response)
             
+    def parse_contends_tree(self,search_input):
+        """[Parse Contends as tree of Objects using the search input]
+
+        Args:
+            search_input ([string]): [search input for which the input contends are retrived]
+
+        Returns:
+            [dict]: [dictionary of obejcts that are retrived and persisted]
+        """
+        wiki_dict = {}
+        page_ins = wikipedia.page(search_input)  
+        wiki_dict["content"] = page_ins.content
+        wiki_dict["title"] = page_ins.title
+        wiki_dict["sections"] = page_ins.sections
+        wiki_dict["summary"] = page_ins.summary
+        wiki_dict["categories"] = page_ins.categories
+        wiki_dict["images"] = page_ins.images
+        wiki_dict["links"] = page_ins.links
+        wiki_dict["references"] = page_ins.references
+        wiki_dict["original-title"] = page_ins.original_title
+        wiki_dict["page-id"] = page_ins.pageid
+        wiki_dict["revision-id"] = page_ins.revision_id
+        wiki_dict["url"] = page_ins.url
+        return wiki_dict
+            
 
 wiki_contends = {}
 wiki_extr_instance = WikiContentExtracter()
+
 title_list  = wiki_extr_instance.search_titles("Ronaldo")
 wiki_contends["title_list"] = title_list
 
@@ -91,3 +117,7 @@ if title_list is not None:
     wiki_contends["complete-metadata"] = complete_contends
     file_name = "outputs/response-output-file.json"
     wiki_extr_instance.write_contends_file(wiki_contends,file_name)
+    object_content_tree = wiki_extr_instance.parse_contends_tree(selected_title)
+    file_name = "outputs/content-output-file.json"
+    wiki_extr_instance.write_contends_file(object_content_tree,file_name)
+
