@@ -33,6 +33,17 @@ class WikiContentExtracter:
             error_response = str(traceback.format_exc())
             print("Excetion occured while extracting the meta data contends from Wiki :: "+error_response)
         return complete_metadata
+    
+    def write_contends_file(self,input_contends,fileName):
+        try:
+            response_contends = json.dumps(input_contends, indent=4)
+            with open(fileName, 'w') as file_instance:
+                file_instance.write(response_contends)
+            print("Completed writing response contends to a file")
+        except:
+            error_response = str(traceback.format_exc())
+            print("Exception occured while executing the method write_contends_file ::"+error_response)
+            
 
 wiki_contends = {}
 wiki_extr_instance = WikiContentExtracter()
@@ -46,3 +57,5 @@ if title_list is not None:
     wiki_contends["summary"] = summary
     complete_contends = wiki_extr_instance.get_complete_metadata(selected_title)
     wiki_contends["complete-metadata"] = complete_contends
+    file_name = "outputs/response-output-file.json"
+    wiki_extr_instance.write_contends_file(wiki_contends,file_name)
