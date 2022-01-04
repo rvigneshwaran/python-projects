@@ -3,11 +3,21 @@ import traceback
 import json
 
 class WikiContentExtracter:
+    """[This project is intent to retrive the contends from the wiki site , With the search input we would be able to retrive all the information related to the search content.]
+    """
     
     def __init__(self):
         print("Initializing Components")
         
     def search_titles(self,search_input):
+        """[This Method is Intended to rrieve all the possible titles with the search input ]
+
+        Args:
+            search_input ([string]): [search input for which the information is to be retrived]
+
+        Returns:
+            [list]: [all possible values of the search input]
+        """
         wiki_title_list = []
         try:
             wiki_title_list = wikipedia.search(search_input)
@@ -17,6 +27,14 @@ class WikiContentExtracter:
         return wiki_title_list
     
     def get_summary(self,search_input):
+        """[This Method is Intended to retrive the summary of the search input of the user.]
+
+        Args:
+            search_input ([string]): [input text for which the summary from wiki is to be retrived]
+
+        Returns:
+            [string]: [sumary content of the title from the wiki site]
+        """
         text_summary = None
         try: 
             text_summary = wikipedia.summary(search_input)
@@ -25,7 +43,15 @@ class WikiContentExtracter:
             print("Excetion occured while extracting the summary contends from Wiki :: "+error_response)
         return text_summary
     
-    def get_complete_metadata(Self,search_input):
+    def get_complete_metadata(self,search_input):
+        """[Method intended to retrive all the contends of the page in wike based on the user input title]
+
+        Args:
+            search_input ([string]): [search input title]
+
+        Returns:
+            [string]: [complete metat data from the page]
+        """
         complete_metadata = None
         try:
             complete_metadata = wikipedia.page(search_input).content
@@ -35,6 +61,12 @@ class WikiContentExtracter:
         return complete_metadata
     
     def write_contends_file(self,input_contends,fileName):
+        """[Method Intended to write the contends of the dictionary in a output file ]
+
+        Args:
+            input_contends ([dict]): [The created dictionary which is going to be writtern in this file]
+            fileName ([string]): [location and name of the output file]
+        """
         try:
             response_contends = json.dumps(input_contends, indent=4)
             with open(fileName, 'w') as file_instance:
