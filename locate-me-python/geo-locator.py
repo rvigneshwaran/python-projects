@@ -54,6 +54,16 @@ class GeoLocatorComponent:
         return address
     
     def calculate_distance(self,source_place,dest_place,units="km"):
+        """[Method intended to calculate the distance between two place on Earth without considering the dimention time :)]
+
+        Args:
+            source_place ([string]): [Input the source from which the distance should be mesured]
+            dest_place ([string]): [Inputs the destination to which the distance is mesured]
+            units (str, string): [In Which Unit the method should produce output]. Defaults to "km".
+
+        Returns:
+            [Number]: [Produces the distance between the source and the destination location]
+        """
         distance_value = None
         try:
             source = geolocator.geocode(source_place)
