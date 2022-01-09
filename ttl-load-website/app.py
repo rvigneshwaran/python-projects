@@ -77,7 +77,12 @@ timeelap_ins.check_connectivity(website_url)
 contends_link_list = timeelap_ins.get_alllinks(website_url)
 consolidated_time_list = []
 if contends_link_list is not None and len(contends_link_list) > 0:
-    for indv_link_detail in contends_link_list:
+    '''
+    TODO As of now this list has been limited to 100, This can be extended to maximum 
+    and this below logic should be writtern recursive in order to get more data about the
+    initial query up.
+    '''
+    for indv_link_detail in contends_link_list[:100]:
         service_detail = indv_link_detail["link_detail"]
         link_title = indv_link_detail["link_title"]
         elapsed_time = timeelap_ins.check_connectivity(service_detail)
