@@ -28,11 +28,15 @@ class QRCodeGenerator:
         generated_code = pyqrcode.create(input_content)
         time_stamp = self.get_current_timestamp()
         output_file_name = "outputs/"+input_file_name+"_"+time_stamp
-        if file_type == "svg":
-            generated_code.svg(output_file_name+".svg",scale = 10)
+        if file_type == "png":
+            generated_code.svg(output_file_name+".png",scale = 6)
             print("QR Code Generated for the Input content with file type :: "+file_type)
+        else:
+            generated_code.svg(output_file_name+".svg",scale = 10)
+            print("QR Code Generated for the Input content with file type SVG")
             
 qrcode_instance = QRCodeGenerator()
 input_content = "https://github.com/rvigneshwaran"
 output_file_name = "rvigneshwaran-github"
 qrcode_instance.generate_qrcode(input_content,"svg",output_file_name)
+qrcode_instance.generate_qrcode(input_content,"png",output_file_name)

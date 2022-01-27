@@ -1,1 +1,2 @@
 PyQRCode==1.2.1
+qrcode==7.3.1
