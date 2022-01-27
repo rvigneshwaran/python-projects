@@ -1,0 +1,4745 @@
+[
+    {
+        "fund_type": "Large Cap Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Tata Large Cap Fund - Direct (G)",
+                "fund_title": "Tata Large Cap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-large-cap-fund-direct-plan/MTA788",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "101.50",
+                "1 M": "1.80%",
+                "6 M": "9.20%",
+                "1 Y": "29.90%",
+                "3 Y": "18.60%",
+                "5 Y": "15.00%"
+            },
+            {
+                "fund_name": "IDBI India Top 100 Eqty -Direct (G)",
+                "fund_title": "IDBI India Top 100 Eqty -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-india-top-100-equity-fund-direct-plan/MIB092",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "19.30",
+                "1 M": "1.30%",
+                "6 M": "9.60%",
+                "1 Y": "29.70%",
+                "3 Y": "21.60%",
+                "5 Y": "15.60%"
+            },
+            {
+                "fund_name": "IDBI India Top 100 Equity Fund (G)",
+                "fund_title": "IDBI India Top 100 Equity Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-india-top-100-equity-fund/MIB062",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "397.87",
+                "1 M": "1.20%",
+                "6 M": "8.90%",
+                "1 Y": "28.10%",
+                "3 Y": "20.20%",
+                "5 Y": "13.90%"
+            },
+            {
+                "fund_name": "CR Bluechip Equity Fund - D (G)",
+                "fund_title": "CR Bluechip Equity Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-blue-chip-equity-fund-direct-plan/MCA212",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "431.65",
+                "1 M": "1.20%",
+                "6 M": "7.90%",
+                "1 Y": "23.20%",
+                "3 Y": "22.80%",
+                "5 Y": "18.90%"
+            },
+            {
+                "fund_name": "LIC MF Large Cap Fund - D (G)",
+                "fund_title": "LIC MF Large Cap Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-large-cap-fund-direct-plan/MJB161",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "113.64",
+                "1 M": "0.80%",
+                "6 M": "9.90%",
+                "1 Y": "23.10%",
+                "3 Y": "19.30%",
+                "5 Y": "15.20%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Multi Cap Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Union Equity Fund - Direct (G)",
+                "fund_title": "Union Equity Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-equity-fund-direct-plan/MUK027",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "16.57",
+                "1 M": "3.70%",
+                "6 M": "14.90%",
+                "1 Y": "37.70%",
+                "3 Y": "24.80%",
+                "5 Y": "18.80%"
+            },
+            {
+                "fund_name": "Union Equity Fund (G)",
+                "fund_title": "Union Equity Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-equity-fund/MUK001",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "452.06",
+                "1 M": "3.60%",
+                "6 M": "14.40%",
+                "1 Y": "36.60%",
+                "3 Y": "23.90%",
+                "5 Y": "18.00%"
+            },
+            {
+                "fund_name": "IDBI Flexi Cap Fund - DP - (G)",
+                "fund_title": "IDBI Flexi Cap Fund - DP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-flexi-cap-fund-direct-plan/MIB216",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "14.62",
+                "1 M": "1.70%",
+                "6 M": "14.00%",
+                "1 Y": "35.90%",
+                "3 Y": "21.60%",
+                "5 Y": "16.90%"
+            },
+            {
+                "fund_name": "IDBI Flexi Cap Fund - RP - (G)",
+                "fund_title": "IDBI Flexi Cap Fund - RP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-flexi-cap-fund-regular-plan/MIB214",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "304.83",
+                "1 M": "1.60%",
+                "6 M": "13.20%",
+                "1 Y": "34.10%",
+                "3 Y": "20.00%",
+                "5 Y": "15.00%"
+            },
+            {
+                "fund_name": "Canara Robeco Flexi Cap Fund - D - (G)",
+                "fund_title": "Canara Robeco Flexi Cap Fund - D - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-direct-plan/MCA202",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "252.88",
+                "1 M": "0.90%",
+                "6 M": "9.80%",
+                "1 Y": "30.20%",
+                "3 Y": "23.20%",
+                "5 Y": "19.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Large & Mid Cap Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Mirae Emerging Bluechip -Direct (G)",
+                "fund_title": "Mirae Emerging Bluechip -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-emerging-bluechip-fund-direct-plan/MMA100",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "4,655.33",
+                "1 M": "1.70%",
+                "6 M": "8.70%",
+                "1 Y": "34.40%",
+                "3 Y": "27.00%",
+                "5 Y": "21.60%"
+            },
+            {
+                "fund_name": "Edelweiss Large & Mid Cap - D (G)",
+                "fund_title": "Edelweiss Large & Mid Cap - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/edelweiss-large-midcap-fund-direct-plan/MJP103",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "30.36",
+                "1 M": "0.70%",
+                "6 M": "7.60%",
+                "1 Y": "34.30%",
+                "3 Y": "22.80%",
+                "5 Y": "18.70%"
+            },
+            {
+                "fund_name": "LIC MF Large & Mid Cap Fund - D (G)",
+                "fund_title": "LIC MF Large & Mid Cap Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-large-mid-cap-fund-direct-plan/MJB395",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "186.82",
+                "1 M": "1.50%",
+                "6 M": "12.60%",
+                "1 Y": "34.10%",
+                "3 Y": "22.10%",
+                "5 Y": "17.70%"
+            },
+            {
+                "fund_name": "Mirae Emerging Bluechip Fund (G)",
+                "fund_title": "Mirae Emerging Bluechip Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-emerging-bluechip-fund/MMA088",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "10,968.58",
+                "1 M": "1.60%",
+                "6 M": "8.10%",
+                "1 Y": "33.00%",
+                "3 Y": "25.70%",
+                "5 Y": "20.50%"
+            },
+            {
+                "fund_name": "Can Robeco Emer-Equities-Direct (G)",
+                "fund_title": "Can Robeco Emer-Equities-Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-emerging-equities-direct-plan/MCA205",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,399.52",
+                "1 M": "-0.10%",
+                "6 M": "8.20%",
+                "1 Y": "32.30%",
+                "3 Y": "24.10%",
+                "5 Y": "19.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Mid Cap Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Invesco India Midcap - D (G)",
+                "fund_title": "Invesco India Midcap - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-midcap-fund-direct-plan/MLI556",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "244.85",
+                "1 M": "-0.70%",
+                "6 M": "7.10%",
+                "1 Y": "36.40%",
+                "3 Y": "25.10%",
+                "5 Y": "19.80%"
+            },
+            {
+                "fund_name": "Axis Mid Cap Fund - Direct (G)",
+                "fund_title": "Axis Mid Cap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-mid-cap-fund-direct-plan/MAA194",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,910.39",
+                "1 M": "-1.00%",
+                "6 M": "7.80%",
+                "1 Y": "35.80%",
+                "3 Y": "27.30%",
+                "5 Y": "23.10%"
+            },
+            {
+                "fund_name": "Tata Mid Cap Growth - Direct (G)",
+                "fund_title": "Tata Mid Cap Growth - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-mid-cap-growth-fund-direct-plan/MTA776",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "99.20",
+                "1 M": "-0.70%",
+                "6 M": "6.10%",
+                "1 Y": "35.20%",
+                "3 Y": "24.90%",
+                "5 Y": "18.00%"
+            },
+            {
+                "fund_name": "Invesco India Midcap (G)",
+                "fund_title": "Invesco India Midcap (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-midcap-fund/MLI021",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "1,077.40",
+                "1 M": "-0.80%",
+                "6 M": "6.40%",
+                "1 Y": "34.40%",
+                "3 Y": "23.20%",
+                "5 Y": "17.90%"
+            },
+            {
+                "fund_name": "Axis Mid Cap Fund (G)",
+                "fund_title": "Axis Mid Cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-mid-cap-fund-regular-plan/MAA099",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "6,618.57",
+                "1 M": "-1.10%",
+                "6 M": "7.10%",
+                "1 Y": "34.00%",
+                "3 Y": "25.60%",
+                "5 Y": "21.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Small Cap Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Axis Small Cap Fund - Direct (G)",
+                "fund_title": "Axis Small Cap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-small-cap-fund-direct-plan/MAA316",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "1,529.00",
+                "1 M": "1.60%",
+                "6 M": "12.20%",
+                "1 Y": "57.70%",
+                "3 Y": "34.70%",
+                "5 Y": "24.00%"
+            },
+            {
+                "fund_name": "Union SCF -DP (G)",
+                "fund_title": "Union SCF -DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-small-cap-fund-direct-plan/MUK091",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "15.71",
+                "1 M": "1.70%",
+                "6 M": "7.40%",
+                "1 Y": "56.60%",
+                "3 Y": "31.40%",
+                "5 Y": "18.90%"
+            },
+            {
+                "fund_name": "Axis Small Cap Fund (G)",
+                "fund_title": "Axis Small Cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-small-cap-fund-regular-plan/MAA314",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,541.05",
+                "1 M": "1.40%",
+                "6 M": "11.30%",
+                "1 Y": "55.30%",
+                "3 Y": "32.70%",
+                "5 Y": "22.30%"
+            },
+            {
+                "fund_name": "Union SCF -RP (G)",
+                "fund_title": "Union SCF -RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-small-cap-fund-regular-plan/MUK089",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "402.49",
+                "1 M": "1.60%",
+                "6 M": "7.00%",
+                "1 Y": "55.30%",
+                "3 Y": "30.60%",
+                "5 Y": "18.10%"
+            },
+            {
+                "fund_name": "SBI Small Cap Fund - DP - (G)",
+                "fund_title": "SBI Small Cap Fund - DP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-small-cap-fund-direct-plan-/MSA031",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "2,317.48",
+                "1 M": "1.70%",
+                "6 M": "10.10%",
+                "1 Y": "45.50%",
+                "3 Y": "30.40%",
+                "5 Y": "23.90%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Value Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Nippon Value Fund (G)",
+                "fund_title": "Nippon Value Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-value-fund/MRC098",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "3,267.78",
+                "1 M": "2.70%",
+                "6 M": "8.10%",
+                "1 Y": "36.60%",
+                "3 Y": "21.30%",
+                "5 Y": "16.80%"
+            },
+            {
+                "fund_name": "UTI Value Opportunities Fund - D (G)",
+                "fund_title": "UTI Value Opportunities Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-value-opportunities-fund-direct-plan/MUT635",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "403.45",
+                "1 M": "2.20%",
+                "6 M": "7.30%",
+                "1 Y": "27.10%",
+                "3 Y": "21.30%",
+                "5 Y": "16.20%"
+            },
+            {
+                "fund_name": "UTI Value Opportunities Fund (G)",
+                "fund_title": "UTI Value Opportunities Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-value-opportunities-fund/MUT072",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "5,076.21",
+                "1 M": "2.10%",
+                "6 M": "6.90%",
+                "1 Y": "26.20%",
+                "3 Y": "20.50%",
+                "5 Y": "15.40%"
+            },
+            {
+                "fund_name": "Tata Equity P/E Fund - Direct (G)",
+                "fund_title": "Tata Equity P/E Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-equity-p-e-fund-direct-plan/MTA732",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "733.91",
+                "1 M": "1.00%",
+                "6 M": "10.20%",
+                "1 Y": "25.40%",
+                "3 Y": "17.30%",
+                "5 Y": "14.10%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Contra Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Kotak India EQ Contra Fund - D (G)",
+                "fund_title": "Kotak India EQ Contra Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-eq-contra-fund-direct-plan/MKM530",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "138.16",
+                "1 M": "2.50%",
+                "6 M": "7.80%",
+                "1 Y": "28.80%",
+                "3 Y": "20.60%",
+                "5 Y": "18.30%"
+            },
+            {
+                "fund_name": "Invesco India Contra - Dir (G)",
+                "fund_title": "Invesco India Contra - Dir (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra-fund-direct-plan/MLI566",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,528.16",
+                "1 M": "1.50%",
+                "6 M": "7.80%",
+                "1 Y": "27.50%",
+                "3 Y": "20.90%",
+                "5 Y": "18.60%"
+            },
+            {
+                "fund_name": "Kotak India EQ Contra Fund (G)",
+                "fund_title": "Kotak India EQ Contra Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-eq-contra-fund-regular-plan/MKM077",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "789.21",
+                "1 M": "2.40%",
+                "6 M": "7.00%",
+                "1 Y": "27.10%",
+                "3 Y": "19.00%",
+                "5 Y": "16.70%"
+            },
+            {
+                "fund_name": "Invesco India Contra (G)",
+                "fund_title": "Invesco India Contra (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra-fund/MLI019",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "4,858.39",
+                "1 M": "1.40%",
+                "6 M": "7.10%",
+                "1 Y": "25.80%",
+                "3 Y": "19.50%",
+                "5 Y": "17.00%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Focused Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "SBI Focused Equity Fund - D (G)",
+                "fund_title": "SBI Focused Equity Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-focused-equity-fund-direct-plan/MSB536",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,713.94",
+                "1 M": "-4.10%",
+                "6 M": "10.60%",
+                "1 Y": "35.20%",
+                "3 Y": "23.80%",
+                "5 Y": "20.20%"
+            },
+            {
+                "fund_name": "SBI Focused Equity Fund (G)",
+                "fund_title": "SBI Focused Equity Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-focused-equity-fund/MSB059",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "10,904.74",
+                "1 M": "-4.20%",
+                "6 M": "10.00%",
+                "1 Y": "33.80%",
+                "3 Y": "22.50%",
+                "5 Y": "19.00%"
+            },
+            {
+                "fund_name": "Principal Focused Multicap Fund - D (G)",
+                "fund_title": "Principal Focused Multicap Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-focused-multicap-fund-direct-plan/MID318",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "35.47",
+                "1 M": "0.80%",
+                "6 M": "8.40%",
+                "1 Y": "31.10%",
+                "3 Y": "22.70%",
+                "5 Y": "17.70%"
+            },
+            {
+                "fund_name": "Principal Focused Multicap Fund (G)",
+                "fund_title": "Principal Focused Multicap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-focused-multicap-fund/MID094",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "481.33",
+                "1 M": "0.70%",
+                "6 M": "7.90%",
+                "1 Y": "29.90%",
+                "3 Y": "21.70%",
+                "5 Y": "16.70%"
+            },
+            {
+                "fund_name": "Axis Focused 25 Fund - Direct (G)",
+                "fund_title": "Axis Focused 25 Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-focused-25-fund-direct-plan/MAA183",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "3,761.70",
+                "1 M": "-4.00%",
+                "6 M": "3.40%",
+                "1 Y": "17.90%",
+                "3 Y": "21.00%",
+                "5 Y": "18.80%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Sectoral/Thematic »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Can Robeco Infrastructure-Direct(G)",
+                "fund_title": "Can Robeco Infrastructure-Direct(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-infrastructure-direct-plan/MCA214",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "9.64",
+                "1 M": "3.30%",
+                "6 M": "13.30%",
+                "1 Y": "53.30%",
+                "3 Y": "23.50%",
+                "5 Y": "14.20%"
+            },
+            {
+                "fund_name": "Can Robeco Infrastructure (G)",
+                "fund_title": "Can Robeco Infrastructure (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-infrastructure/MCA040",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "108.60",
+                "1 M": "3.20%",
+                "6 M": "12.70%",
+                "1 Y": "51.80%",
+                "3 Y": "22.40%",
+                "5 Y": "13.10%"
+            },
+            {
+                "fund_name": "Invesco India Infra. -Direct (G)",
+                "fund_title": "Invesco India Infra. -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-infrastructure-fund-direct-plan/MLI558",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "32.68",
+                "1 M": "1.20%",
+                "6 M": "9.90%",
+                "1 Y": "51.70%",
+                "3 Y": "27.40%",
+                "5 Y": "19.30%"
+            },
+            {
+                "fund_name": "Tata Infrastructure - Direct (G)",
+                "fund_title": "Tata Infrastructure - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-infrastructure-fund-direct-plan/MTA767",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "22.33",
+                "1 M": "2.40%",
+                "6 M": "14.60%",
+                "1 Y": "51.60%",
+                "3 Y": "23.70%",
+                "5 Y": "15.00%"
+            },
+            {
+                "fund_name": "Invesco India Infrastructure (G)",
+                "fund_title": "Invesco India Infrastructure (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-infrastructure-fund/MLI139",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "56.87",
+                "1 M": "1.00%",
+                "6 M": "9.30%",
+                "1 Y": "49.90%",
+                "3 Y": "25.70%",
+                "5 Y": "17.50%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Long Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Tata Income Fund - D (G)",
+                "fund_title": "Tata Income Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-income-fund-direct-plan/MTA755",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "9.95",
+                "1 M": "-0.40%",
+                "6 M": "1.40%",
+                "1 Y": "2.60%",
+                "3 Y": "8.30%",
+                "5 Y": "6.60%"
+            },
+            {
+                "fund_name": "IDFC Bond Fund - LTP - D (G)",
+                "fund_title": "IDFC Bond Fund - LTP - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-bond-fund-long-term-plan-direct-plan/MAG752",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "83.27",
+                "1 M": "-0.10%",
+                "6 M": "1.40%",
+                "1 Y": "2.20%",
+                "3 Y": "8.40%",
+                "5 Y": "7.10%"
+            },
+            {
+                "fund_name": "IDFC Bond Fund - LTP (G)",
+                "fund_title": "IDFC Bond Fund - LTP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-bond-fund-long-term-plan-regular-plan/MAG001",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "611.28",
+                "1 M": "-0.10%",
+                "6 M": "1.00%",
+                "1 Y": "1.50%",
+                "3 Y": "7.70%",
+                "5 Y": "6.30%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Medium to Long Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Nippon Income Fund - Direct (G)",
+                "fund_title": "Nippon Income Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-income-fund-direct-plan/MRC946",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "87.28",
+                "1 M": "0.10%",
+                "6 M": "1.90%",
+                "1 Y": "2.60%",
+                "3 Y": "8.70%",
+                "5 Y": "7.00%"
+            },
+            {
+                "fund_name": "ICICI Pru Bond Fund (G)",
+                "fund_title": "ICICI Pru Bond Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-bond-fund/MPI501",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "2,052.00",
+                "1 M": "-0.50%",
+                "6 M": "1.20%",
+                "1 Y": "2.50%",
+                "3 Y": "8.00%",
+                "5 Y": "6.60%"
+            },
+            {
+                "fund_name": "Nippon Income Fund (G)",
+                "fund_title": "Nippon Income Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-income-fund/MRC002",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "272.57",
+                "1 M": "0.00%",
+                "6 M": "1.30%",
+                "1 Y": "1.50%",
+                "3 Y": "7.70%",
+                "5 Y": "6.10%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Medium Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Tata Medium Term - Direct (G)",
+                "fund_title": "Tata Medium Term - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-medium-term-fund-direct-plan/MTA760",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "17.39",
+                "1 M": "0.20%",
+                "6 M": "2.90%",
+                "1 Y": "6.10%",
+                "3 Y": "2.70%",
+                "5 Y": "3.80%"
+            },
+            {
+                "fund_name": "Axis Strategic Bond Fund - D (G)",
+                "fund_title": "Axis Strategic Bond Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-strategic-bond-fund-direct-plan/MAA187",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "284.11",
+                "1 M": "0.30%",
+                "6 M": "2.90%",
+                "1 Y": "6.00%",
+                "3 Y": "8.20%",
+                "5 Y": "7.90%"
+            },
+            {
+                "fund_name": "HDFC Medium Term Debt Fund - D (G)",
+                "fund_title": "HDFC Medium Term Debt Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-medium-term-debt-fund-direct-plan/MHD1197",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "895.98",
+                "1 M": "0.20%",
+                "6 M": "2.60%",
+                "1 Y": "5.80%",
+                "3 Y": "8.70%",
+                "5 Y": "7.70%"
+            },
+            {
+                "fund_name": "ICICI Pru Medium Term Bond (G)",
+                "fund_title": "ICICI Pru Medium Term Bond (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-medium-term-bond-fund/MPI098",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "4,879.08",
+                "1 M": "0.00%",
+                "6 M": "2.00%",
+                "1 Y": "5.30%",
+                "3 Y": "8.10%",
+                "5 Y": "7.10%"
+            },
+            {
+                "fund_name": "Axis Strategic Bond Fund (G)",
+                "fund_title": "Axis Strategic Bond Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-strategic-bond-fund-regular-plan/MAA152",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "933.58",
+                "1 M": "0.30%",
+                "6 M": "2.50%",
+                "1 Y": "5.20%",
+                "3 Y": "7.40%",
+                "5 Y": "7.20%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Dynamic Bond Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Axis Dynamic Bond Fund - Direct (G)",
+                "fund_title": "Axis Dynamic Bond Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-dynamic-bond-fund-direct-plan/MAA179",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "905.90",
+                "1 M": "-0.60%",
+                "6 M": "2.10%",
+                "1 Y": "3.80%",
+                "3 Y": "9.30%",
+                "5 Y": "7.70%"
+            },
+            {
+                "fund_name": "Axis Dynamic Bond Fund (G)",
+                "fund_title": "Axis Dynamic Bond Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-dynamic-bond-fund-regular-plan/MAA105",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "617.86",
+                "1 M": "-0.70%",
+                "6 M": "1.80%",
+                "1 Y": "3.40%",
+                "3 Y": "8.70%",
+                "5 Y": "7.00%"
+            },
+            {
+                "fund_name": "DSP Strategic Bond Fund - Direct (G)",
+                "fund_title": "DSP Strategic Bond Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-strategic-bond-fund-direct-plan/MDS630",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "925.84",
+                "1 M": "0.00%",
+                "6 M": "2.40%",
+                "1 Y": "3.20%",
+                "3 Y": "9.00%",
+                "5 Y": "7.00%"
+            },
+            {
+                "fund_name": "Kotak Dynamic Bond Fund (G)",
+                "fund_title": "Kotak Dynamic Bond Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-dynamic-bond-fund-regular-plan/MKM255",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,528.11",
+                "1 M": "-0.10%",
+                "6 M": "2.30%",
+                "1 Y": "3.20%",
+                "3 Y": "8.40%",
+                "5 Y": "7.50%"
+            },
+            {
+                "fund_name": "SBI Dynamic Bond Fund - Direct (G)",
+                "fund_title": "SBI Dynamic Bond Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-dynamic-bond-fund-direct-plan/MSB528",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "863.16",
+                "1 M": "0.10%",
+                "6 M": "1.80%",
+                "1 Y": "3.00%",
+                "3 Y": "9.10%",
+                "5 Y": "7.40%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Short Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Axis Short Term Fund - Direct (G)",
+                "fund_title": "Axis Short Term Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-short-term-fund-direct-plan/MAA196",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "9,430.67",
+                "1 M": "0.40%",
+                "6 M": "2.20%",
+                "1 Y": "4.60%",
+                "3 Y": "8.30%",
+                "5 Y": "7.70%"
+            },
+            {
+                "fund_name": "Mirae Asset STF - Direct (G)",
+                "fund_title": "Mirae Asset STF - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-short-term-fund-direct-plan/MMA137",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "212.03",
+                "1 M": "0.30%",
+                "6 M": "1.90%",
+                "1 Y": "4.40%",
+                "3 Y": "7.60%",
+                "5 Y": "0.00%"
+            },
+            {
+                "fund_name": "IDFC Bond Fund - STP - Direct (G)",
+                "fund_title": "IDFC Bond Fund - STP - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-bond-fund-short-term-plan-direct-plan/MAG779",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "5,872.76",
+                "1 M": "0.30%",
+                "6 M": "1.90%",
+                "1 Y": "4.20%",
+                "3 Y": "7.90%",
+                "5 Y": "7.40%"
+            },
+            {
+                "fund_name": "Edelweiss Bank & PSU Debt-Reg (G)",
+                "fund_title": "Edelweiss Bank & PSU Debt-Reg (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/edelweiss-banking-and-psu-debt-fund-regular-plan/MJP198",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "311.18",
+                "1 M": "-0.50%",
+                "6 M": "2.30%",
+                "1 Y": "4.10%",
+                "3 Y": "9.60%",
+                "5 Y": "8.10%"
+            },
+            {
+                "fund_name": "Invesco India STF- Direct (G)",
+                "fund_title": "Invesco India STF- Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-short-term-fund-direct-plan/MLI615",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "944.41",
+                "1 M": "0.40%",
+                "6 M": "1.80%",
+                "1 Y": "4.00%",
+                "3 Y": "7.80%",
+                "5 Y": "7.10%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Money Market Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Nippon Money Market Fund - D (G)",
+                "fund_title": "Nippon Money Market Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund-direct-plan/MRC984",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "6,085.46",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "4.00%",
+                "3 Y": "5.90%",
+                "5 Y": "6.50%"
+            },
+            {
+                "fund_name": "Kotak Money Market Scheme - D (G)",
+                "fund_title": "Kotak Money Market Scheme - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-direct-plan/MKM556",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "7,831.44",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.90%",
+                "3 Y": "5.70%",
+                "5 Y": "6.40%"
+            },
+            {
+                "fund_name": "Nippon Money Market Fund (G)",
+                "fund_title": "Nippon Money Market Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund/MRC094",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,206.29",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.90%",
+                "3 Y": "5.80%",
+                "5 Y": "6.40%"
+            },
+            {
+                "fund_name": "Kotak Money Market Scheme (G)",
+                "fund_title": "Kotak Money Market Scheme (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-regular-plan/MKM047",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,872.45",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.80%",
+                "3 Y": "5.70%",
+                "5 Y": "6.30%"
+            },
+            {
+                "fund_name": "Franklin India Savings Fund - D (G)",
+                "fund_title": "Franklin India Savings Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-savings-fund-direct-plan/MTE365",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "282.02",
+                "1 M": "0.30%",
+                "6 M": "1.80%",
+                "1 Y": "3.80%",
+                "3 Y": "6.00%",
+                "5 Y": "6.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Low Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Axis Treasury Advantage - Direct (G)",
+                "fund_title": "Axis Treasury Advantage - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-treasury-advantage-fund-direct-plan/MAA199",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "6,569.69",
+                "1 M": "0.40%",
+                "6 M": "2.00%",
+                "1 Y": "4.30%",
+                "3 Y": "6.80%",
+                "5 Y": "7.10%"
+            },
+            {
+                "fund_name": "Axis Treasury Advantage -Reg. (G)",
+                "fund_title": "Axis Treasury Advantage -Reg. (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-treasury-advantage-fund-regular-plan/MAA005",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "3,052.63",
+                "1 M": "0.40%",
+                "6 M": "1.80%",
+                "1 Y": "4.00%",
+                "3 Y": "6.50%",
+                "5 Y": "6.70%"
+            },
+            {
+                "fund_name": "Invesco Treasury Advantage - DP (G)",
+                "fund_title": "Invesco Treasury Advantage - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-treasury-advantage-fund-direct-plan/MLI602",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,017.98",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "4.00%",
+                "3 Y": "6.60%",
+                "5 Y": "6.90%"
+            },
+            {
+                "fund_name": "DSP Low Duration Fund - Direct (G)",
+                "fund_title": "DSP Low Duration Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-low-duration-fund-direct-plan/MDS1162",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,225.09",
+                "1 M": "0.40%",
+                "6 M": "1.80%",
+                "1 Y": "4.00%",
+                "3 Y": "6.40%",
+                "5 Y": "6.80%"
+            },
+            {
+                "fund_name": "SBI Magnum Low Duration - D (G)",
+                "fund_title": "SBI Magnum Low Duration - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-low-duration-fund-direct-plan/MSB570",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "10,258.88",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.90%",
+                "3 Y": "6.50%",
+                "5 Y": "6.80%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Ultra Short Duration Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "DSP Ultra Short Fund - DP (G)",
+                "fund_title": "DSP Ultra Short Fund - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-ultra-short-fund-direct-plan/MDS625",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,562.98",
+                "1 M": "0.40%",
+                "6 M": "1.80%",
+                "1 Y": "3.80%",
+                "3 Y": "5.60%",
+                "5 Y": "5.90%"
+            },
+            {
+                "fund_name": "Invesco India Ultra Short Term - D (G)",
+                "fund_title": "Invesco India Ultra Short Term - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-ultra-short-term-fund-direct-plan/MLI607",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "512.90",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.80%",
+                "3 Y": "5.70%",
+                "5 Y": "6.50%"
+            },
+            {
+                "fund_name": "L&T Ultra Short Term -Direct (G)",
+                "fund_title": "L&T Ultra Short Term -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/l-t-ultra-short-term-fund-direct-plan/MCC247",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,534.37",
+                "1 M": "0.30%",
+                "6 M": "1.80%",
+                "1 Y": "3.60%",
+                "3 Y": "5.60%",
+                "5 Y": "6.30%"
+            },
+            {
+                "fund_name": "BOI Ultra Short Duration - D (G)",
+                "fund_title": "BOI Ultra Short Duration - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/boi-axa-ultra-short-duration-fund-direct-plan/MBA085",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "283.30",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.50%",
+                "3 Y": "5.30%",
+                "5 Y": "6.30%"
+            },
+            {
+                "fund_name": "L&T Ultra Short Term Fund (G)",
+                "fund_title": "L&T Ultra Short Term Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/l-t-ultra-short-term-fund/MCC021",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "643.15",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.50%",
+                "3 Y": "5.40%",
+                "5 Y": "6.00%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Liquid Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Baroda Pioneer Liquid -Direct (G)",
+                "fund_title": "Baroda Pioneer Liquid -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-liquid-fund-direct-plan-b/MBO094",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "3,249.44",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.50%",
+                "3 Y": "4.70%",
+                "5 Y": "5.70%"
+            },
+            {
+                "fund_name": "Baroda Pioneer Liquid -Plan A (G)",
+                "fund_title": "Baroda Pioneer Liquid -Plan A (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-liquid-fund-plan-a/MBO031",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "672.82",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.40%",
+                "3 Y": "4.60%",
+                "5 Y": "5.60%"
+            },
+            {
+                "fund_name": "Sundaram Money Fund -Direct (G)",
+                "fund_title": "Sundaram Money Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-money-fund-direct-plan/MSN593",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "2,745.51",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.40%",
+                "3 Y": "4.80%",
+                "5 Y": "5.70%"
+            },
+            {
+                "fund_name": "LIC Liquid Fund -Direct (G)",
+                "fund_title": "LIC Liquid Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-liquid-fund-direct-plan/MJB172",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "5,468.87",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.40%",
+                "3 Y": "4.70%",
+                "5 Y": "5.70%"
+            },
+            {
+                "fund_name": "DSP Liquidity Fund - Direct (G)",
+                "fund_title": "DSP Liquidity Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-liquidity-fund-direct-plan/MDS613",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "9,041.01",
+                "1 M": "0.30%",
+                "6 M": "1.70%",
+                "1 Y": "3.40%",
+                "3 Y": "4.60%",
+                "5 Y": "5.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Aggressive Hybrid Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "SBI Equity Hybrid Fund - D (G)",
+                "fund_title": "SBI Equity Hybrid Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund-direct-plan/MSB516",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "2,219.27",
+                "1 M": "0.50%",
+                "6 M": "6.90%",
+                "1 Y": "21.70%",
+                "3 Y": "17.50%",
+                "5 Y": "14.90%"
+            },
+            {
+                "fund_name": "CR Equity Hybrid Fund - DP - (G)",
+                "fund_title": "CR Equity Hybrid Fund - DP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-equity-hybrid-fund-direct-plan/MCA208",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "227.30",
+                "1 M": "1.20%",
+                "6 M": "6.80%",
+                "1 Y": "21.50%",
+                "3 Y": "19.30%",
+                "5 Y": "15.90%"
+            },
+            {
+                "fund_name": "SBI Equity Hybrid Fund (G)",
+                "fund_title": "SBI Equity Hybrid Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund/MSB063",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "34,653.01",
+                "1 M": "0.50%",
+                "6 M": "6.50%",
+                "1 Y": "20.80%",
+                "3 Y": "16.70%",
+                "5 Y": "13.90%"
+            },
+            {
+                "fund_name": "CR Equity Hybrid Fund - RP - (G)",
+                "fund_title": "CR Equity Hybrid Fund - RP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-equity-hybrid-fund-regular-plan/MCA051",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "4,312.56",
+                "1 M": "1.00%",
+                "6 M": "6.10%",
+                "1 Y": "20.00%",
+                "3 Y": "17.90%",
+                "5 Y": "14.50%"
+            },
+            {
+                "fund_name": "IDBI Hybrid Equity Fund - DP (G)",
+                "fund_title": "IDBI Hybrid Equity Fund - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-hybrid-equity-fund-direct-plan/MIB226",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "4.63",
+                "1 M": "0.30%",
+                "6 M": "8.40%",
+                "1 Y": "19.70%",
+                "3 Y": "13.80%",
+                "5 Y": "10.30%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Conservative Hybrid Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "LIC MF Debt Hybrid Fund - D (G)",
+                "fund_title": "LIC MF Debt Hybrid Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-debt-hybrid-fund-direct-plan/MJB178",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "19.21",
+                "1 M": "-0.10%",
+                "6 M": "4.00%",
+                "1 Y": "7.50%",
+                "3 Y": "9.40%",
+                "5 Y": "7.30%"
+            },
+            {
+                "fund_name": "IDFC Regular Savings Fund - D (G)",
+                "fund_title": "IDFC Regular Savings Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-regular-savings-fund-direct-plan/MAG792",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "19.69",
+                "1 M": "0.60%",
+                "6 M": "3.20%",
+                "1 Y": "6.90%",
+                "3 Y": "8.40%",
+                "5 Y": "7.20%"
+            },
+            {
+                "fund_name": "LIC MF Debt Hybrid Fund (G)",
+                "fund_title": "LIC MF Debt Hybrid Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-debt-hybrid-fund/MJB020",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "61.50",
+                "1 M": "-0.20%",
+                "6 M": "3.60%",
+                "1 Y": "6.60%",
+                "3 Y": "8.40%",
+                "5 Y": "6.30%"
+            },
+            {
+                "fund_name": "IDFC Regular Savings Fund (G)",
+                "fund_title": "IDFC Regular Savings Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-regular-savings-fund-regular-plan/MAG361",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "157.53",
+                "1 M": "0.50%",
+                "6 M": "2.70%",
+                "1 Y": "5.90%",
+                "3 Y": "7.50%",
+                "5 Y": "6.30%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Arbitrage Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "L&T Arbitrage Oppor. - Direct (G)",
+                "fund_title": "L&T Arbitrage Oppor. - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/l-t-arbitrage-opportunities-fund-direct-plan/MCC504",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "906.85",
+                "1 M": "0.30%",
+                "6 M": "1.90%",
+                "1 Y": "4.50%",
+                "3 Y": "5.40%",
+                "5 Y": "5.90%"
+            },
+            {
+                "fund_name": "Invesco India Arbitrage -Dir (G)",
+                "fund_title": "Invesco India Arbitrage -Dir (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-arbitrage-fund-direct-plan/MLI572",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "291.54",
+                "1 M": "0.50%",
+                "6 M": "2.00%",
+                "1 Y": "4.50%",
+                "3 Y": "5.20%",
+                "5 Y": "5.70%"
+            },
+            {
+                "fund_name": "L&T Arbitrage Oppor. - Regular (G)",
+                "fund_title": "L&T Arbitrage Oppor. - Regular (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/l-t-arbitrage-opportunities-fund-regular-plan/MCC502",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "2,310.16",
+                "1 M": "0.30%",
+                "6 M": "1.50%",
+                "1 Y": "3.80%",
+                "3 Y": "4.80%",
+                "5 Y": "5.30%"
+            },
+            {
+                "fund_name": "Invesco India Arbitrage Fund (G)",
+                "fund_title": "Invesco India Arbitrage Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-arbitrage-fund/MLI032",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "252.36",
+                "1 M": "0.40%",
+                "6 M": "1.70%",
+                "1 Y": "3.80%",
+                "3 Y": "4.50%",
+                "5 Y": "5.10%"
+            }
+        ]
+    },
+    {
+        "fund_type": "Money Market Fund »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Nippon Money Market Fund - D (G)",
+                "fund_title": "Nippon Money Market Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund-direct-plan/MRC984",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "6,085.46",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "4.00%",
+                "3 Y": "5.90%",
+                "5 Y": "6.50%"
+            },
+            {
+                "fund_name": "Kotak Money Market Scheme - D (G)",
+                "fund_title": "Kotak Money Market Scheme - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-direct-plan/MKM556",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "7,831.44",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.90%",
+                "3 Y": "5.70%",
+                "5 Y": "6.40%"
+            },
+            {
+                "fund_name": "Nippon Money Market Fund (G)",
+                "fund_title": "Nippon Money Market Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund/MRC094",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,206.29",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.90%",
+                "3 Y": "5.80%",
+                "5 Y": "6.40%"
+            },
+            {
+                "fund_name": "Kotak Money Market Scheme (G)",
+                "fund_title": "Kotak Money Market Scheme (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-regular-plan/MKM047",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,872.45",
+                "1 M": "0.40%",
+                "6 M": "1.90%",
+                "1 Y": "3.80%",
+                "3 Y": "5.70%",
+                "5 Y": "6.30%"
+            },
+            {
+                "fund_name": "Franklin India Savings Fund - D (G)",
+                "fund_title": "Franklin India Savings Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-savings-fund-direct-plan/MTE365",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "282.02",
+                "1 M": "0.30%",
+                "6 M": "1.80%",
+                "1 Y": "3.80%",
+                "3 Y": "6.00%",
+                "5 Y": "6.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": "ELSS »",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 M",
+            "6 M",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "BOI AXA Tax Advantage - Direct (G)",
+                "fund_title": "BOI AXA Tax Advantage - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/boi-axa-tax-advantage-fund-direct-plan/MBA083",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "75.73",
+                "1 M": "-2.00%",
+                "6 M": "4.60%",
+                "1 Y": "34.80%",
+                "3 Y": "29.60%",
+                "5 Y": "21.30%"
+            },
+            {
+                "fund_name": "BOI AXA Tax Advtg -RP (G)",
+                "fund_title": "BOI AXA Tax Advtg -RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/boi-axa-tax-advantage-fund-retail-plan/MBA043",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "322.15",
+                "1 M": "-2.10%",
+                "6 M": "4.10%",
+                "1 Y": "33.50%",
+                "3 Y": "28.20%",
+                "5 Y": "19.90%"
+            },
+            {
+                "fund_name": "CR Equity Tax Saver Fund - D (G)",
+                "fund_title": "CR Equity Tax Saver Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-equity-tax-saver-fund-direct-plan/MCA200",
+                "Crisil Rank": "5",
+                "AUM (Cr)": "216.30",
+                "1 M": "0.50%",
+                "6 M": "8.80%",
+                "1 Y": "30.60%",
+                "3 Y": "25.00%",
+                "5 Y": "20.30%"
+            },
+            {
+                "fund_name": "JM Tax Gain Fund -Direct (G)",
+                "fund_title": "JM Tax Gain Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/jm-tax-gain-fund-direct-plan/MJM315",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "11.31",
+                "1 M": "1.20%",
+                "6 M": "10.50%",
+                "1 Y": "30.00%",
+                "3 Y": "22.80%",
+                "5 Y": "18.30%"
+            },
+            {
+                "fund_name": "Kotak Tax Saver - Regular (G)",
+                "fund_title": "Kotak Tax Saver - Regular (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-tax-saver-regular-plan/MKM081",
+                "Crisil Rank": "4",
+                "AUM (Cr)": "1,513.39",
+                "1 M": "1.80%",
+                "6 M": "7.70%",
+                "1 Y": "29.60%",
+                "3 Y": "20.40%",
+                "5 Y": "15.60%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Category",
+            "1Y",
+            "2Y",
+            "3Y",
+            "5Y"
+        ],
+        "fund_details": [
+            {
+                "Category": "8.30%",
+                "1Y": "-13,814.50%",
+                "2Y": "-7,439.70%",
+                "3Y": "3.20%"
+            },
+            {
+                "Category": "26.00%",
+                "1Y": "18.10%",
+                "2Y": "15.30%",
+                "3Y": "13.00%"
+            },
+            {
+                "Category": "19.00%",
+                "1Y": "-1,371.80%",
+                "2Y": "15.70%",
+                "3Y": "14.00%"
+            },
+            {
+                "Category": "33.30%",
+                "1Y": "22.60%",
+                "2Y": "20.50%",
+                "3Y": "15.80%"
+            },
+            {
+                "Category": "38.20%",
+                "1Y": "28.20%",
+                "2Y": "23.30%",
+                "3Y": "16.60%"
+            },
+            {
+                "Category": "40.10%",
+                "1Y": "26.20%",
+                "2Y": "17.80%",
+                "3Y": "19.30%"
+            },
+            {
+                "Category": "31.50%",
+                "1Y": "22.90%",
+                "2Y": "19.20%",
+                "3Y": "15.00%"
+            },
+            {
+                "Category": "26.80%",
+                "1Y": "21.00%",
+                "2Y": "18.60%",
+                "3Y": "14.10%"
+            },
+            {
+                "Category": "25.20%",
+                "1Y": "19.30%",
+                "2Y": "17.70%",
+                "3Y": "15.70%"
+            },
+            {
+                "Category": "27.70%",
+                "1Y": "21.40%",
+                "2Y": "19.60%",
+                "3Y": "16.10%"
+            },
+            {
+                "Category": "33.90%",
+                "1Y": "24.50%",
+                "2Y": "19.10%",
+                "3Y": "14.30%"
+            },
+            {
+                "Category": "32.50%",
+                "1Y": "27.20%",
+                "2Y": "21.80%",
+                "3Y": "17.60%"
+            },
+            {
+                "Category": "22.40%",
+                "1Y": "18.80%",
+                "2Y": "16.30%",
+                "3Y": "13.30%"
+            },
+            {
+                "Category": "4.20%",
+                "1Y": "4.10%",
+                "2Y": "4.80%",
+                "3Y": "5.40%"
+            },
+            {
+                "Category": "12.80%",
+                "1Y": "11.00%",
+                "2Y": "10.30%",
+                "3Y": "9.40%"
+            },
+            {
+                "Category": "12.70%",
+                "1Y": "11.00%",
+                "2Y": "10.30%",
+                "3Y": "8.40%"
+            },
+            {
+                "Category": "8.00%",
+                "1Y": "9.50%",
+                "2Y": "9.20%",
+                "3Y": "8.30%"
+            },
+            {
+                "Category": "9.70%",
+                "1Y": "9.20%",
+                "2Y": "8.50%",
+                "3Y": "7.30%"
+            },
+            {
+                "Category": "18.40%",
+                "1Y": "16.70%",
+                "2Y": "15.50%",
+                "3Y": "11.50%"
+            },
+            {
+                "Category": "5.60%",
+                "1Y": "5.50%",
+                "2Y": "5.80%",
+                "3Y": "5.70%"
+            },
+            {
+                "Category": "4.70%",
+                "1Y": "5.00%",
+                "2Y": "4.00%",
+                "3Y": "5.30%"
+            },
+            {
+                "Category": "5.40%",
+                "1Y": "6.30%",
+                "2Y": "6.20%",
+                "3Y": "6.20%"
+            },
+            {
+                "Category": "4.60%",
+                "1Y": "4.90%",
+                "2Y": "5.60%",
+                "3Y": "6.20%"
+            },
+            {
+                "Category": "3.60%",
+                "1Y": "4.80%",
+                "2Y": "5.90%",
+                "3Y": "6.20%"
+            },
+            {
+                "Category": "-1.20%",
+                "1Y": "2.80%",
+                "2Y": "4.40%",
+                "3Y": "5.50%"
+            },
+            {
+                "Category": "1.80%",
+                "1Y": "7.10%",
+                "2Y": "7.80%",
+                "3Y": "6.10%"
+            },
+            {
+                "Category": "9.30%",
+                "1Y": "5.80%",
+                "2Y": "4.90%",
+                "3Y": "5.50%"
+            },
+            {
+                "Category": "4.90%",
+                "1Y": "7.00%",
+                "2Y": "7.20%",
+                "3Y": "5.90%"
+            },
+            {
+                "Category": "3.20%",
+                "1Y": "3.90%",
+                "2Y": "4.50%",
+                "3Y": "5.30%"
+            },
+            {
+                "Category": "4.90%",
+                "1Y": "6.80%",
+                "2Y": "7.10%",
+                "3Y": "6.30%"
+            },
+            {
+                "Category": "3.60%",
+                "1Y": "6.70%",
+                "2Y": "7.00%",
+                "3Y": "5.80%"
+            },
+            {
+                "Category": "2.90%",
+                "1Y": "6.50%",
+                "2Y": "8.20%",
+                "3Y": "6.70%"
+            },
+            {
+                "Category": "0.90%",
+                "1Y": "5.50%",
+                "2Y": "7.10%",
+                "3Y": "6.70%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Category",
+            "1W",
+            "1M",
+            "3M",
+            "6M"
+        ],
+        "fund_details": [
+            {
+                "Category": "-3.50%",
+                "1W": "0.20%",
+                "1M": "-8.70%",
+                "3M": "2.80%"
+            },
+            {
+                "Category": "-3.30%",
+                "1W": "-1.00%",
+                "1M": "0.20%",
+                "3M": "9.10%"
+            },
+            {
+                "Category": "-4.40%",
+                "1W": "-0.30%",
+                "1M": "-6.50%",
+                "3M": "4.20%"
+            },
+            {
+                "Category": "-4.50%",
+                "1W": "1.00%",
+                "1M": "-1.90%",
+                "3M": "8.70%"
+            },
+            {
+                "Category": "-5.00%",
+                "1W": "0.10%",
+                "1M": "-0.90%",
+                "3M": "7.30%"
+            },
+            {
+                "Category": "-4.10%",
+                "1W": "0.70%",
+                "1M": "3.20%",
+                "3M": "10.80%"
+            },
+            {
+                "Category": "-3.70%",
+                "1W": "0.90%",
+                "1M": "-1.70%",
+                "3M": "8.30%"
+            },
+            {
+                "Category": "-4.10%",
+                "1W": "-0.90%",
+                "1M": "-3.50%",
+                "3M": "4.00%"
+            },
+            {
+                "Category": "-2.80%",
+                "1W": "1.70%",
+                "1M": "-0.40%",
+                "3M": "7.80%"
+            },
+            {
+                "Category": "-4.40%",
+                "1W": "0.60%",
+                "1M": "-3.80%",
+                "3M": "8.90%"
+            },
+            {
+                "Category": "-4.60%",
+                "1W": "0.10%",
+                "1M": "-2.00%",
+                "3M": "7.60%"
+            },
+            {
+                "Category": "-3.90%",
+                "1W": "1.60%",
+                "1M": "-1.50%",
+                "3M": "8.80%"
+            },
+            {
+                "Category": "-3.30%",
+                "1W": "0.70%",
+                "1M": "-1.60%",
+                "3M": "6.40%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.40%",
+                "1M": "1.00%",
+                "3M": "1.80%"
+            },
+            {
+                "Category": "-1.90%",
+                "1W": "0.80%",
+                "1M": "-0.90%",
+                "3M": "3.70%"
+            },
+            {
+                "Category": "-1.40%",
+                "1W": "0.90%",
+                "1M": "-0.20%",
+                "3M": "4.40%"
+            },
+            {
+                "Category": "0.40%",
+                "1W": "0.80%",
+                "1M": "6.20%",
+                "3M": "9.60%"
+            },
+            {
+                "Category": "-0.90%",
+                "1W": "0.50%",
+                "1M": "0.40%",
+                "3M": "4.30%"
+            },
+            {
+                "Category": "-2.20%",
+                "1W": "2.10%",
+                "1M": "-1.00%",
+                "3M": "6.00%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.40%",
+                "1M": "1.70%",
+                "3M": "2.60%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.40%",
+                "1M": "1.00%",
+                "3M": "3.10%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.20%",
+                "1M": "0.80%",
+                "3M": "3.30%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.40%",
+                "1M": "1.20%",
+                "3M": "2.50%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.30%",
+                "1M": "0.70%",
+                "3M": "1.50%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "-5.50%",
+                "1M": "-5.60%",
+                "3M": "-3.80%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.40%",
+                "1M": "0.90%",
+                "3M": "1.30%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "0.30%",
+                "1M": "1.70%",
+                "3M": "5.10%"
+            },
+            {
+                "Category": "0.00%",
+                "1W": "0.00%",
+                "1M": "0.60%",
+                "3M": "1.60%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "-3.50%",
+                "1M": "-2.40%",
+                "3M": "-0.70%"
+            },
+            {
+                "Category": "0.20%",
+                "1W": "0.10%",
+                "1M": "0.80%",
+                "3M": "2.70%"
+            },
+            {
+                "Category": "0.20%",
+                "1W": "0.00%",
+                "1M": "0.30%",
+                "3M": "2.30%"
+            },
+            {
+                "Category": "0.10%",
+                "1W": "-0.20%",
+                "1M": "0.30%",
+                "3M": "1.70%"
+            },
+            {
+                "Category": "0.00%",
+                "1W": "-0.60%",
+                "1M": "0.30%",
+                "3M": "2.00%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Category",
+            "1Y",
+            "2Y",
+            "3Y",
+            "5Y"
+        ],
+        "fund_details": [
+            {
+                "Category": "22.50%",
+                "1Y": "18.80%",
+                "2Y": "17.10%",
+                "3Y": "14.60%"
+            },
+            {
+                "Category": "20.80%",
+                "1Y": "18.00%",
+                "2Y": "17.10%",
+                "3Y": "15.50%"
+            },
+            {
+                "Category": "27.10%",
+                "1Y": "21.20%",
+                "2Y": "18.30%",
+                "3Y": "14.50%"
+            },
+            {
+                "Category": "30.90%",
+                "1Y": "23.30%",
+                "2Y": "18.40%",
+                "3Y": "13.10%"
+            },
+            {
+                "Category": "49.70%",
+                "1Y": "31.00%",
+                "2Y": "21.60%",
+                "3Y": "11.20%"
+            },
+            {
+                "Category": "39.10%",
+                "1Y": "26.70%",
+                "2Y": "20.80%",
+                "3Y": "13.40%"
+            },
+            {
+                "Category": "25.40%",
+                "1Y": "11.00%",
+                "2Y": "12.50%",
+                "3Y": "14.00%"
+            },
+            {
+                "Category": "2.80%",
+                "1Y": "23.60%",
+                "2Y": "14.00%",
+                "3Y": "4.40%"
+            },
+            {
+                "Category": "32.10%",
+                "1Y": "21.40%",
+                "2Y": "18.90%",
+                "3Y": "11.10%"
+            },
+            {
+                "Category": "29.40%",
+                "1Y": "42.90%",
+                "2Y": "30.30%",
+                "3Y": "26.90%"
+            },
+            {
+                "Category": "49.00%",
+                "1Y": "25.90%",
+                "2Y": "18.30%",
+                "3Y": "18.00%"
+            },
+            {
+                "Category": "72.60%",
+                "1Y": "41.80%",
+                "2Y": "24.40%",
+                "3Y": "11.90%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Category",
+            "1W",
+            "1M",
+            "3M",
+            "6M",
+            "YTD"
+        ],
+        "fund_details": [
+            {
+                "Category": "-3.60%",
+                "1W": "0.10%",
+                "1M": "-6.00%",
+                "3M": "8.70%",
+                "6M": "-1.41%"
+            },
+            {
+                "Category": "-3.70%",
+                "1W": "-0.20%",
+                "1M": "-6.30%",
+                "3M": "8.90%",
+                "6M": "-1.68%"
+            },
+            {
+                "Category": "-4.40%",
+                "1W": "-0.30%",
+                "1M": "-5.20%",
+                "3M": "7.90%",
+                "6M": "-2.11%"
+            },
+            {
+                "Category": "-6.00%",
+                "1W": "-2.00%",
+                "1M": "-6.40%",
+                "3M": "4.60%",
+                "6M": "-4.12%"
+            },
+            {
+                "Category": "-6.80%",
+                "1W": "0.20%",
+                "1M": "-1.20%",
+                "3M": "4.40%",
+                "6M": "-3.55%"
+            },
+            {
+                "Category": "-6.20%",
+                "1W": "-1.30%",
+                "1M": "-5.70%",
+                "3M": "7.00%",
+                "6M": "-3.54%"
+            },
+            {
+                "Category": "0.30%",
+                "1W": "8.30%",
+                "1M": "-7.10%",
+                "3M": "9.20%",
+                "6M": "7.05%"
+            },
+            {
+                "Category": "-4.50%",
+                "1W": "-6.30%",
+                "1M": "-8.80%",
+                "3M": "-8.40%",
+                "6M": "-9.67%"
+            },
+            {
+                "Category": "-4.50%",
+                "1W": "1.40%",
+                "1M": "-3.80%",
+                "3M": "12.10%",
+                "6M": "0.01%"
+            },
+            {
+                "Category": "-8.70%",
+                "1W": "-11.90%",
+                "1M": "-5.70%",
+                "3M": "12.00%",
+                "6M": "-13.50%"
+            },
+            {
+                "Category": "-2.80%",
+                "1W": "8.80%",
+                "1M": "1.50%",
+                "3M": "28.50%",
+                "6M": "8.51%"
+            },
+            {
+                "Category": "-6.60%",
+                "1W": "-0.80%",
+                "1M": "-5.20%",
+                "3M": "-0.40%",
+                "6M": "-1.37%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1D",
+            "1W",
+            "1M",
+            "3M",
+            "6M"
+        ],
+        "fund_details": [
+            {
+                "6M": "Today's Value (₹)",
+                "Period Invested for": "1,000.00",
+                "1D": "1,000.44",
+                "1W": "1,002.65",
+                "1M": "1,007.81",
+                "3M": "1,043.39"
+            },
+            {
+                "6M": "Peer rank",
+                "Period Invested for": "18",
+                "1D": "14",
+                "1W": "21",
+                "1M": "20",
+                "3M": "2"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1M",
+            "3M",
+            "6M",
+            "9M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value (₹)",
+                "Period Invested for": "100.27",
+                "1M": "301.53",
+                "3M": "612.45",
+                "6M": "927.25",
+                "9M": "1,244.69"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1D",
+            "1W",
+            "1M",
+            "3M",
+            "6M"
+        ],
+        "fund_details": [
+            {
+                "6M": "Today's Value (₹)",
+                "Period Invested for": "1,000.00",
+                "1D": "1,000.64",
+                "1W": "1,003.83",
+                "1M": "1,009.99",
+                "3M": "1,018.86"
+            },
+            {
+                "6M": "Peer rank",
+                "Period Invested for": "4",
+                "1D": "2",
+                "1W": "2",
+                "1M": "4",
+                "3M": "6"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1M",
+            "3M",
+            "6M",
+            "9M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value (₹)",
+                "Period Invested for": "100.38",
+                "1M": "302.00",
+                "3M": "606.59",
+                "6M": "914.53",
+                "9M": "1,225.90"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1D",
+            "1W",
+            "1M",
+            "3M",
+            "6M"
+        ],
+        "fund_details": [
+            {
+                "6M": "Today's Value(₹)",
+                "Period Invested for": "1,000.00",
+                "1D": "1,000.54",
+                "1W": "1,003.32",
+                "1M": "1,009.29",
+                "3M": "1,018.41"
+            },
+            {
+                "6M": "Peer rank",
+                "Period Invested for": "3",
+                "1D": "5",
+                "1W": "5",
+                "1M": "7",
+                "3M": "5"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1M",
+            "3M",
+            "6M",
+            "9M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value(₹)",
+                "Period Invested for": "100.33",
+                "1M": "301.86",
+                "3M": "606.36",
+                "6M": "914.04",
+                "9M": "1,225.10"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1W",
+            "1M",
+            "3M",
+            "6M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value(₹)",
+                "Period Invested for": "1,001.49",
+                "1W": "1,002.64",
+                "1M": "1,013.84",
+                "3M": "1,117.29",
+                "6M": "1,143.00"
+            },
+            {
+                "1Y": "Peer rank",
+                "Period Invested for": "1",
+                "1W": "3",
+                "1M": "1",
+                "3M": "1",
+                "6M": "1"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "9M",
+            "1Y",
+            "2Y"
+        ],
+        "fund_details": [
+            {
+                "2Y": "Today's Value(₹)",
+                "Period Invested for": "0.00",
+                "3M": "633.39",
+                "6M": "959.19",
+                "9M": "1,297.89",
+                "1Y": "2,706.90"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1W",
+            "1M",
+            "3M",
+            "6M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value(₹)",
+                "Period Invested for": "1,000.38",
+                "1W": "1,002.64",
+                "1M": "1,005.73",
+                "3M": "1,064.25",
+                "6M": "1,088.21"
+            },
+            {
+                "1Y": "Peer rank",
+                "Period Invested for": "22",
+                "1W": "7",
+                "1M": "16",
+                "3M": "3",
+                "6M": "3"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "9M",
+            "1Y",
+            "2Y"
+        ],
+        "fund_details": [
+            {
+                "2Y": "Today's Value(₹)",
+                "Period Invested for": "301.22",
+                "3M": "616.62",
+                "6M": "938.69",
+                "9M": "1,265.02",
+                "1Y": "2,624.72"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "1W",
+            "1M",
+            "3M",
+            "6M",
+            "1Y"
+        ],
+        "fund_details": [
+            {
+                "1Y": "Today's Value(₹)",
+                "Period Invested for": "1,000.65",
+                "1W": "1,002.22",
+                "1M": "1,007.75",
+                "3M": "1,018.71",
+                "6M": "1,047.72"
+            },
+            {
+                "1Y": "Peer rank",
+                "Period Invested for": "15",
+                "1W": "12",
+                "1M": "5",
+                "3M": "5",
+                "6M": "4"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "9M",
+            "1Y",
+            "2Y"
+        ],
+        "fund_details": [
+            {
+                "2Y": "Today's Value(₹)",
+                "Period Invested for": "301.43",
+                "3M": "605.45",
+                "6M": "913.97",
+                "9M": "1,227.80",
+                "1Y": "2,535.60"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,008.59",
+                "3M": "1,110.12",
+                "6M": "1,189.69",
+                "1Y": "1,213.42",
+                "2Y": "1,246.06"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "11",
+                "3M": "3",
+                "6M": "2",
+                "1Y": "1",
+                "2Y": "5"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "301.85",
+                "3M": "630.88",
+                "6M": "1,316.18",
+                "1Y": "2,801.85",
+                "2Y": "4,282.39"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,007.69",
+                "3M": "1,186.76",
+                "6M": "1,217.06",
+                "1Y": "986.97",
+                "2Y": "832.96"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "13",
+                "3M": "1",
+                "6M": "1",
+                "1Y": "17",
+                "2Y": "17"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "301.66",
+                "3M": "646.72",
+                "6M": "1,370.17",
+                "1Y": "2,784.26",
+                "2Y": "3,802.86"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,013.84",
+                "3M": "1,117.29",
+                "6M": "1,143.00",
+                "1Y": "1,132.44",
+                "2Y": "1,129.81"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "1",
+                "3M": "1",
+                "6M": "1",
+                "1Y": "9",
+                "2Y": "21"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "302.69",
+                "3M": "633.39",
+                "6M": "1,297.89",
+                "1Y": "2,706.90",
+                "2Y": "4,032.34"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "980.90",
+                "3M": "1,082.04",
+                "6M": "1,552.15",
+                "1Y": "2,130.51",
+                "2Y": "2,379.10"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "3",
+                "3M": "9",
+                "6M": "2",
+                "1Y": "1",
+                "2Y": "2"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "298.93",
+                "3M": "616.62",
+                "6M": "1,408.69",
+                "1Y": "3,975.61",
+                "2Y": "6,708.28"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "0.00",
+                "3M": "0.00",
+                "6M": "0.00",
+                "1Y": "0.00",
+                "2Y": "0.00"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "13",
+                "3M": "15",
+                "6M": "5",
+                "1Y": "3",
+                "2Y": "1"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "",
+                "3M": "",
+                "6M": "",
+                "1Y": "",
+                "2Y": ""
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "964.25",
+                "3M": "1,105.52",
+                "6M": "1,505.62",
+                "1Y": "1,719.14",
+                "2Y": "2,022.02"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "8",
+                "3M": "6",
+                "6M": "3",
+                "1Y": "4",
+                "2Y": "4"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "300.85",
+                "3M": "621.19",
+                "6M": "1404.37",
+                "1Y": "3643.12",
+                "2Y": "5918.44"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "0.00",
+                "3M": "0.00",
+                "6M": "0.00",
+                "1Y": "0.00",
+                "2Y": "0.00"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "",
+                "3M": "",
+                "6M": "",
+                "1Y": "",
+                "2Y": ""
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "0.00",
+                "3M": "0.00",
+                "6M": "0.00",
+                "1Y": "0.00"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,035.63",
+                "3M": "1,103.46",
+                "6M": "1,637.77",
+                "1Y": "2,314.09",
+                "2Y": "2,677.13"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "6",
+                "3M": "18",
+                "6M": "15",
+                "1Y": "2",
+                "2Y": "1"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "309.09",
+                "3M": "636.30",
+                "6M": "1,473.45",
+                "1Y": "4,178.83",
+                "2Y": "7,291.89"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,040.39",
+                "3M": "1,116.38",
+                "6M": "1,700.40",
+                "1Y": "2,054.08",
+                "2Y": "2,248.09"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "2",
+                "3M": "15",
+                "6M": "5",
+                "1Y": "4",
+                "2Y": "5"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "311.25",
+                "3M": "641.37",
+                "6M": "1,491.16",
+                "1Y": "4,241.06",
+                "2Y": "6,925.82"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "995.51",
+                "3M": "1,077.28",
+                "6M": "1,577.59",
+                "1Y": "2,269.13",
+                "2Y": "2,495.16"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "11",
+                "3M": "42",
+                "6M": "8",
+                "1Y": "1",
+                "2Y": "3"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "302.07",
+                "3M": "622.67",
+                "6M": "1,427.33",
+                "1Y": "4,149.19",
+                "2Y": "7,028.22"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "970.00",
+                "3M": "1,104.90",
+                "6M": "1,441.84",
+                "1Y": "1,700.19",
+                "2Y": "1,868.41"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "21",
+                "3M": "23",
+                "6M": "15",
+                "1Y": "18",
+                "2Y": "19"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "302.66",
+                "3M": "624.41",
+                "6M": "1,380.82",
+                "1Y": "3,694.76",
+                "2Y": "5,832.61"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "1,001.68",
+                "3M": "1,118.97",
+                "6M": "1,373.78",
+                "1Y": "1,601.21",
+                "2Y": "1,778.85"
+            },
+            {
+                "3Y": "Peer rank",
+                "Period Invested for": "12",
+                "3M": "6",
+                "6M": "18",
+                "1Y": "21",
+                "2Y": "26"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Period Invested for",
+            "3M",
+            "6M",
+            "1Y",
+            "2Y",
+            "3Y"
+        ],
+        "fund_details": [
+            {
+                "3Y": "Today's Value(₹)",
+                "Period Invested for": "307.39",
+                "3M": "631.75",
+                "6M": "1,382.02",
+                "1Y": "3,493.96",
+                "2Y": "5,510.13"
+            }
+        ]
+    },
+    {
+        "fund_type": " Small Cap Fund»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "PPFAS FCF -DP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/ppfas-fcf-dp-/MPP002",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "4963.69",
+                "1 Y": "24.53%",
+                "3 Y": "35.47%",
+                "5 Y": "26.08%"
+            },
+            {
+                "fund_name": "PPFAS FCF -RP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/ppfas-fcf-rp-/MPP001",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2401.14",
+                "1 Y": "23.26%",
+                "3 Y": "34.21%",
+                "5 Y": "25.04%"
+            },
+            {
+                "fund_name": "Quant Large & Mid Cap -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-large-mid-cap-direct/MES058",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.71",
+                "1 Y": "21.58%",
+                "3 Y": "31.53%",
+                "5 Y": "20.46%"
+            },
+            {
+                "fund_name": "Quant Large & Mid Cap (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-large-mid-cap/MES022",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "6.69",
+                "1 Y": "19.36%",
+                "3 Y": "30.19%",
+                "5 Y": "19.55%"
+            },
+            {
+                "fund_name": "Quant Focused Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-focused-fund-direct/MES049",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "4.95",
+                "1 Y": "12.11%",
+                "3 Y": "30.15%",
+                "5 Y": "19.99%"
+            },
+            {
+                "fund_name": "Quant Active Fund - DP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-active-fund-dp-/MES061",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "79.87",
+                "1 Y": "31.2%",
+                "3 Y": "47.45%",
+                "5 Y": "31.51%"
+            },
+            {
+                "fund_name": "Quant Active Fund - DP - (IDCW)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-active-fund-dp-idcw-/MES062",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "79.87",
+                "1 Y": "31.22%",
+                "3 Y": "47.42%",
+                "5 Y": "30.72%"
+            },
+            {
+                "fund_name": "Quant Active Fund - RP - (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-active-fund-rp-/MES005",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "114.95",
+                "1 Y": "28.74%",
+                "3 Y": "45.37%",
+                "5 Y": "30.18%"
+            },
+            {
+                "fund_name": "Quant Active Fund - RP - (IDCW)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-active-fund-rp-idcw-/MES008",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "114.95",
+                "1 Y": "28.8%",
+                "3 Y": "45.37%",
+                "5 Y": "29.31%"
+            },
+            {
+                "fund_name": "Kotak India Growth Fund-Sr IV-Dir. (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-growth-fund-sr-iv-dir-/MKM1087",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "12.44",
+                "1 Y": "27.34%",
+                "3 Y": "40.14%",
+                "5 Y": "32.17%"
+            },
+            {
+                "fund_name": "Mirae Emerging Bluechip -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-emerging-bluechip-direct/MMA100",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "4655.33",
+                "1 Y": "19.86%",
+                "3 Y": "33.71%",
+                "5 Y": "23.99%"
+            },
+            {
+                "fund_name": "Principal Emer-Bluechip -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-emer-bluechip-direct/MID302",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "528.02",
+                "1 Y": "29.64%",
+                "3 Y": "33.64%",
+                "5 Y": "21.58%"
+            },
+            {
+                "fund_name": "Mirae Emerging Bluechip Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-emerging-bluechip-fund/MMA088",
+                "Crisil Rank": "\n5\n                \n\n",
+                "AUM (Cr)": "10968.58",
+                "1 Y": "18.62%",
+                "3 Y": "32.36%",
+                "5 Y": "22.85%"
+            },
+            {
+                "fund_name": "Principal Emerging Bluechip(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-emerging-bluechip/MID221",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1983.25",
+                "1 Y": "28.21%",
+                "3 Y": "32.21%",
+                "5 Y": "20.32%"
+            },
+            {
+                "fund_name": "ICICI Pru Large & Mid Cap Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-large-mid-cap-fund-d/MPI1130",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "949.76",
+                "1 Y": "28.64%",
+                "3 Y": "31.83%",
+                "5 Y": "19.78%"
+            },
+            {
+                "fund_name": "PGIM India Midcap Opp Fund-DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/pgim-india-midcap-opp-fund-dp/MPA139",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "190.1",
+                "1 Y": "34.98%",
+                "3 Y": "51.84%",
+                "5 Y": "31.91%"
+            },
+            {
+                "fund_name": "PGIM India Midcap Opp Fund-Reg (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/pgim-india-midcap-opp-fund-reg/MPA137",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "668.09",
+                "1 Y": "32.46%",
+                "3 Y": "49.18%",
+                "5 Y": "29.85%"
+            },
+            {
+                "fund_name": "Baroda Pioneer Mid-cap Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-mid-cap-fund-direct/MBO097",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "2.17",
+                "1 Y": "35.23%",
+                "3 Y": "39.78%",
+                "5 Y": "24.38%"
+            },
+            {
+                "fund_name": "SBI Magnum Midcap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-midcap-fund-direct/MSB505",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "684.76",
+                "1 Y": "28.27%",
+                "3 Y": "39.56%",
+                "5 Y": "23.55%"
+            },
+            {
+                "fund_name": "Baroda Pioneer Mid-cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-mid-cap-fund/MBO050",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "51.8",
+                "1 Y": "33.82%",
+                "3 Y": "38.58%",
+                "5 Y": "23.36%"
+            },
+            {
+                "fund_name": "Quant Small Cap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-small-cap-fund-direct/MES056",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "126.62",
+                "1 Y": "51.21%",
+                "3 Y": "69.6%",
+                "5 Y": "38.9%"
+            },
+            {
+                "fund_name": "Quant Small Cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-small-cap-fund/MES011",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2.56",
+                "1 Y": "48.28%",
+                "3 Y": "67.53%",
+                "5 Y": "37.71%"
+            },
+            {
+                "fund_name": "Kotak Small Cap Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-small-cap-fund-d/MKM516",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "560.14",
+                "1 Y": "32.86%",
+                "3 Y": "50.51%",
+                "5 Y": "30.53%"
+            },
+            {
+                "fund_name": "Nippon Small Cap - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-small-cap-direct/MRC935",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "2023.57",
+                "1 Y": "41.33%",
+                "3 Y": "48.88%",
+                "5 Y": "28.99%"
+            },
+            {
+                "fund_name": "Kotak Small Cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-small-cap-fund/MKM073",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "2333.4",
+                "1 Y": "30.89%",
+                "3 Y": "48.42%",
+                "5 Y": "28.89%"
+            }
+        ]
+    },
+    {
+        "fund_type": " Sectoral/Thematic»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "ICICI Pru Dividend Yield Equity - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-dividend-yield-equity-d/MPI2058",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "16.57",
+                "1 Y": "35.07%",
+                "3 Y": "33.96%",
+                "5 Y": "19%"
+            },
+            {
+                "fund_name": "ICICI Pru Dividend Yield Equity (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-dividend-yield-equity/MPI2056",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "201.64",
+                "1 Y": "33.49%",
+                "3 Y": "32.72%",
+                "5 Y": "18.02%"
+            },
+            {
+                "fund_name": "UTI Dividend Yield Fund -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-dividend-yield-fund-direct/MUT653",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "95.83",
+                "1 Y": "16.7%",
+                "3 Y": "26.84%",
+                "5 Y": "18.37%"
+            },
+            {
+                "fund_name": "Principal Dividend Yield-Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-dividend-yield-direct/MID300",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.52",
+                "1 Y": "16.75%",
+                "3 Y": "26.68%",
+                "5 Y": "18.4%"
+            },
+            {
+                "fund_name": "UTI Dividend Yield Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-dividend-yield-fund/MUT070",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2504.77",
+                "1 Y": "15.99%",
+                "3 Y": "26.13%",
+                "5 Y": "17.71%"
+            },
+            {
+                "fund_name": "IDFC Sterling Value Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-sterling-value-fund-d/MAG735",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "302.92",
+                "1 Y": "35.36%",
+                "3 Y": "41.05%",
+                "5 Y": "23.24%"
+            },
+            {
+                "fund_name": "IDFC Sterling Value Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-sterling-value-fund/MAG162",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "2809.51",
+                "1 Y": "33.86%",
+                "3 Y": "39.61%",
+                "5 Y": "22.03%"
+            },
+            {
+                "fund_name": "ICICI Pru Value Discovery Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-value-discovery-fund-d/MPI1116",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "4440.09",
+                "1 Y": "27.95%",
+                "3 Y": "32.51%",
+                "5 Y": "20.46%"
+            },
+            {
+                "fund_name": "ICICI Pru Value Discovery Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-value-discovery-fund/MPI087",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "13543.87",
+                "1 Y": "27.22%",
+                "3 Y": "31.81%",
+                "5 Y": "19.77%"
+            },
+            {
+                "fund_name": "Nippon Value Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-value-fund-direct/MRC1016",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "216.25",
+                "1 Y": "23.08%",
+                "3 Y": "31.32%",
+                "5 Y": "20.37%"
+            },
+            {
+                "fund_name": "SBI Contra Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-contra-fund-direct/MSB530",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "102.59",
+                "1 Y": "28.66%",
+                "3 Y": "39.54%",
+                "5 Y": "23.56%"
+            },
+            {
+                "fund_name": "SBI Contra Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-contra-fund/MSB010",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1689.75",
+                "1 Y": "27.7%",
+                "3 Y": "38.66%",
+                "5 Y": "22.82%"
+            },
+            {
+                "fund_name": "Invesco India Contra - Dir (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra-dir/MLI566",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "1528.16",
+                "1 Y": "17.18%",
+                "3 Y": "27.54%",
+                "5 Y": "19.61%"
+            },
+            {
+                "fund_name": "Kotak India EQ Contra Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-eq-contra-fund-d/MKM530",
+                "Crisil Rank": "\n5\n                \n\n",
+                "AUM (Cr)": "138.16",
+                "1 Y": "16.58%",
+                "3 Y": "27.17%",
+                "5 Y": "19.79%"
+            },
+            {
+                "fund_name": "Invesco India Contra (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra/MLI019",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "4858.4",
+                "1 Y": "15.67%",
+                "3 Y": "26%",
+                "5 Y": "18.2%"
+            },
+            {
+                "fund_name": "Nippon Focused Equity - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-focused-equity-d/MRC955",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "317.18",
+                "1 Y": "19.95%",
+                "3 Y": "31.72%",
+                "5 Y": "20.03%"
+            },
+            {
+                "fund_name": "Nippon Focused Equity Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-focused-equity-fund/MRC110",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "4521.16",
+                "1 Y": "19.13%",
+                "3 Y": "30.87%",
+                "5 Y": "19.24%"
+            },
+            {
+                "fund_name": "Franklin India Focused Equity - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-focused-equity-d/MTE325",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "2157.08",
+                "1 Y": "23.47%",
+                "3 Y": "30.24%",
+                "5 Y": "20.21%"
+            },
+            {
+                "fund_name": "Franklin India Focused Equity (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-focused-equity/MTE117",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "5740.95",
+                "1 Y": "22.52%",
+                "3 Y": "29.22%",
+                "5 Y": "19.22%"
+            },
+            {
+                "fund_name": "ICICI Pru Focused Equity Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-focused-equity-fund-d/MPI1124",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "159.53",
+                "1 Y": "20.27%",
+                "3 Y": "29.21%",
+                "5 Y": "19.36%"
+            },
+            {
+                "fund_name": "Quant Infrastructure -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-infrastructure-direct/MES051",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.7",
+                "1 Y": "53.32%",
+                "3 Y": "57.46%",
+                "5 Y": "34.53%"
+            },
+            {
+                "fund_name": "ICICI Pru Technology Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-technology-fund-d/MPI1128",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "557.59",
+                "1 Y": "40.32%",
+                "3 Y": "57.11%",
+                "5 Y": "40.06%"
+            },
+            {
+                "fund_name": "Quant Infrastructure (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-infrastructure/MES025",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.69",
+                "1 Y": "51.54%",
+                "3 Y": "56.1%",
+                "5 Y": "33.42%"
+            },
+            {
+                "fund_name": "ICICI Pru Technology Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-technology-fund/MPI015",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "994.39",
+                "1 Y": "38.55%",
+                "3 Y": "55.66%",
+                "5 Y": "38.87%"
+            },
+            {
+                "fund_name": "Tata Digital India Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-digital-india-fund-direct/MTA1147",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "478.76",
+                "1 Y": "39.61%",
+                "3 Y": "52.71%",
+                "5 Y": "39.5%"
+            }
+        ]
+    },
+    {
+        "fund_type": " Dynamic Bond Fund»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "ICICI Pru Long Term Bond Fund - IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-long-term-bond-fund-ip/MPI046",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "6",
+                "1 Y": "15.58%",
+                "3 Y": "12%",
+                "5 Y": "10.6%"
+            },
+            {
+                "fund_name": "Tata Income Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-income-fund-d/MTA755",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "9.95",
+                "1 Y": "2.92%",
+                "3 Y": "6.35%",
+                "5 Y": "7.01%"
+            },
+            {
+                "fund_name": "IDFC Bond Fund - LTP - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idfc-bond-fund-ltp-d/MAG752",
+                "Crisil Rank": "\n5\n                \n\n",
+                "AUM (Cr)": "83.27",
+                "1 Y": "3.19%",
+                "3 Y": "5.95%",
+                "5 Y": "7.21%"
+            },
+            {
+                "fund_name": "Quant Dynamic Bond - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-dynamic-bond-direct/MES053",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "14.93",
+                "1 Y": "3.76%",
+                "3 Y": "5.45%",
+                "5 Y": "5%"
+            },
+            {
+                "fund_name": "Quant Dynamic Bond (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-dynamic-bond/MES001",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "4.33",
+                "1 Y": "3.66%",
+                "3 Y": "5.33%",
+                "5 Y": "4.85%"
+            },
+            {
+                "fund_name": "ICICI Pru Bond Fund - IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-bond-fund-ip/MPI504",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "11.22",
+                "1 Y": "11.63%",
+                "3 Y": "9.23%",
+                "5 Y": "8.42%"
+            },
+            {
+                "fund_name": "ABSL Income Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/absl-income-fund-d/MBS888",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "719.24",
+                "1 Y": "5.07%",
+                "3 Y": "7.51%",
+                "5 Y": "8.11%"
+            },
+            {
+                "fund_name": "SBI Magnum Income Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-income-fund-direct/MSB552",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "451.99",
+                "1 Y": "4.03%",
+                "3 Y": "7.44%",
+                "5 Y": "8.2%"
+            },
+            {
+                "fund_name": "Kotak Bond - Plan A - Direct Plan (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-bond-plan-a-direct-plan/MKM570",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "930.11",
+                "1 Y": "4.51%",
+                "3 Y": "7.16%",
+                "5 Y": "7.89%"
+            },
+            {
+                "fund_name": "ABSL Income Fund (DAP)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/absl-income-fund-dap-/MBS438",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "0.01",
+                "1 Y": "4.66%",
+                "3 Y": "7%",
+                "5 Y": "7.5%"
+            },
+            {
+                "fund_name": "ICICI Pru Medium Term Bond - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-medium-term-bond-d/MPI1182",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1477.9",
+                "1 Y": "5.22%",
+                "3 Y": "8.02%",
+                "5 Y": "8.12%"
+            },
+            {
+                "fund_name": "HDFC Medium Term Debt Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-medium-term-debt-fund-d/MHD1197",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "895.98",
+                "1 Y": "5.64%",
+                "3 Y": "7.83%",
+                "5 Y": "8.08%"
+            },
+            {
+                "fund_name": "Axis Strategic Bond Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-strategic-bond-fund-d/MAA187",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "284.11",
+                "1 Y": "5.9%",
+                "3 Y": "7.82%",
+                "5 Y": "7.97%"
+            },
+            {
+                "fund_name": "Indiabulls Income Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/indiabulls-income-fund-direct/MIM040",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "14.63",
+                "1 Y": "5.59%",
+                "3 Y": "7.8%",
+                "5 Y": "8.04%"
+            },
+            {
+                "fund_name": "SBI Magnum Medium Duration Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-medium-duration-fund-d/MSB493",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "1307.35",
+                "1 Y": "5%",
+                "3 Y": "7.76%",
+                "5 Y": "8.51%"
+            },
+            {
+                "fund_name": "ICICI Pru All Seasons Bond - PP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-all-seasons-bond-pp/MPI687",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "0.48",
+                "1 Y": "13.23%",
+                "3 Y": "9.76%",
+                "5 Y": "9.44%"
+            },
+            {
+                "fund_name": "ICICI Pru All Seasons Bond - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-all-seasons-bond-rp/MPI034",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "7.21",
+                "1 Y": "13.23%",
+                "3 Y": "9.76%",
+                "5 Y": "9.44%"
+            },
+            {
+                "fund_name": "UTI Dynamic Bond Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-dynamic-bond-fund-direct/MUT691",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "85.49",
+                "1 Y": "15.17%",
+                "3 Y": "8.59%",
+                "5 Y": "5.97%"
+            },
+            {
+                "fund_name": "Franklin India Dynamic Accrual - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-dynamic-accrual-dp/MTE377",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "352.01",
+                "1 Y": "13.03%",
+                "3 Y": "8.56%",
+                "5 Y": "7.69%"
+            },
+            {
+                "fund_name": "HDFC Dynamic Debt Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-dynamic-debt-fund-d/MHD1199",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "131.92",
+                "1 Y": "8.2%",
+                "3 Y": "8.28%",
+                "5 Y": "7.05%"
+            }
+        ]
+    },
+    {
+        "fund_type": " Overnight Fund»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "IDBI Short Term Bond - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-short-term-bond-direct/MIB085",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "7.16",
+                "1 Y": "15.99%",
+                "3 Y": "10.34%",
+                "5 Y": "8.48%"
+            },
+            {
+                "fund_name": "Sundaram Short Term Debt Fund D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-short-term-debt-fund-d/MSN617",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "145.15",
+                "1 Y": "18.7%",
+                "3 Y": "10.3%",
+                "5 Y": "7.54%"
+            },
+            {
+                "fund_name": "IDBI Short Term Bond Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-short-term-bond-fund/MIB030",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "18.63",
+                "1 Y": "15.47%",
+                "3 Y": "9.81%",
+                "5 Y": "7.78%"
+            },
+            {
+                "fund_name": "Sundaram Short Term Debt Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-short-term-debt-fund/MSN015",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "87.76",
+                "1 Y": "17.86%",
+                "3 Y": "9.56%",
+                "5 Y": "6.78%"
+            },
+            {
+                "fund_name": "UTI Short Term Income - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-short-term-income-direct/MUT687",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "1917.83",
+                "1 Y": "11.21%",
+                "3 Y": "8.56%",
+                "5 Y": "6.5%"
+            },
+            {
+                "fund_name": "ICICI Pru Money Market Fund - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-money-market-fund-rp/MPI033",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "0.15",
+                "1 Y": "8.73%",
+                "3 Y": "7.44%",
+                "5 Y": "7.17%"
+            },
+            {
+                "fund_name": "JM Money Market Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/jm-money-market-fund-d/MJM340",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "4.66",
+                "1 Y": "3.68%",
+                "3 Y": "5.4%",
+                "5 Y": "6.02%"
+            },
+            {
+                "fund_name": "JM Money Market Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/jm-money-market-fund/MJM072",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "12.14",
+                "1 Y": "3.48%",
+                "3 Y": "5.19%",
+                "5 Y": "5.79%"
+            },
+            {
+                "fund_name": "Tata Money Market Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-money-market-fund-d/MTA769",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1626.83",
+                "1 Y": "4.02%",
+                "3 Y": "5.16%",
+                "5 Y": "4.95%"
+            },
+            {
+                "fund_name": "ABSL Money Manager Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/absl-money-manager-fund-d/MBS874",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "9035.55",
+                "1 Y": "3.95%",
+                "3 Y": "5.15%",
+                "5 Y": "6.15%"
+            },
+            {
+                "fund_name": "Franklin (I) Low Dura. -Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-i-low-dura-direct/MTE382",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "461.41",
+                "1 Y": "20.15%",
+                "3 Y": "11.33%",
+                "5 Y": "9.07%"
+            },
+            {
+                "fund_name": "Franklin (I) Low Duration (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-i-low-duration/MTE280",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "1203.49",
+                "1 Y": "20.15%",
+                "3 Y": "11.13%",
+                "5 Y": "8.81%"
+            },
+            {
+                "fund_name": "Sundaram Low Duration Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-low-duration-fund-d/MSN625",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "261.03",
+                "1 Y": "16.87%",
+                "3 Y": "8.92%",
+                "5 Y": "6.93%"
+            },
+            {
+                "fund_name": "Sundaram Low Duration Fund - IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-low-duration-fund-ip/MSN109",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2.29",
+                "1 Y": "15.88%",
+                "3 Y": "8.56%",
+                "5 Y": "6.61%"
+            },
+            {
+                "fund_name": "JM Low Duration Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/jm-low-duration-fund-d/MJM344",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "59.19",
+                "1 Y": "3.7%",
+                "3 Y": "8.51%",
+                "5 Y": "6.4%"
+            },
+            {
+                "fund_name": "Franklin Ultra SBF - SIP - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-ultra-sbf-sip-direct/MTE379",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "2782.81",
+                "1 Y": "13.93%",
+                "3 Y": "9.51%",
+                "5 Y": "8.83%"
+            },
+            {
+                "fund_name": "Franklin Ultra SBF - SIP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-ultra-sbf-sip/MTE188",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "4801.94",
+                "1 Y": "13.93%",
+                "3 Y": "9.47%",
+                "5 Y": "8.77%"
+            },
+            {
+                "fund_name": "Franklin USBF - IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-usbf-ip/MTE186",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1.68",
+                "1 Y": "13.93%",
+                "3 Y": "9.41%",
+                "5 Y": "8.66%"
+            },
+            {
+                "fund_name": "Franklin USBF - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-usbf-rp/MTE184",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "8.59",
+                "1 Y": "13.93%",
+                "3 Y": "9.33%",
+                "5 Y": "8.54%"
+            },
+            {
+                "fund_name": "Nippon Ultra Short Duration - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-ultra-short-duration-d/MRC972",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "264.92",
+                "1 Y": "8.39%",
+                "3 Y": "6.64%",
+                "5 Y": "6.16%"
+            },
+            {
+                "fund_name": "HDFC Liquid Fund - PP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-liquid-fund-pp/MHD026",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "9.48",
+                "1 Y": "7.43%",
+                "3 Y": "7.15%",
+                "5 Y": "7.34%"
+            },
+            {
+                "fund_name": "Sundaram Money - Inst Plan (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-money-inst-plan/MSN060",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1.6",
+                "1 Y": "5.84%",
+                "3 Y": "6.69%",
+                "5 Y": "6.89%"
+            },
+            {
+                "fund_name": "ICICI Pru Liquid Fund - IP",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-liquid-fund-ip/MPI134",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "224.05",
+                "1 Y": "5.57%",
+                "3 Y": "6.32%",
+                "5 Y": "6.46%"
+            },
+            {
+                "fund_name": "ICICI Pru Liquid Fund - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-liquid-fund-rp/MPI001",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "40.16",
+                "1 Y": "5.45%",
+                "3 Y": "6.23%",
+                "5 Y": "6.4%"
+            },
+            {
+                "fund_name": "Franklin India Liquid Fund - IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-liquid-fund-ip/MTE072",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.41",
+                "1 Y": "4.97%",
+                "3 Y": "6.07%",
+                "5 Y": "6.31%"
+            },
+            {
+                "fund_name": "UTI Overnight Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-overnight-fund-d/MUT689",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "5499.27",
+                "1 Y": "3.29%",
+                "3 Y": "3.47%",
+                "5 Y": "4.16%"
+            },
+            {
+                "fund_name": "SBI Overnight Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-overnight-fund-d/MSB549",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "11347.22",
+                "1 Y": "3.25%",
+                "3 Y": "3.43%",
+                "5 Y": "4.2%"
+            },
+            {
+                "fund_name": "HDFC Overnight Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-overnight-fund-d/MHD1177",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "10958.81",
+                "1 Y": "3.22%",
+                "3 Y": "3.41%",
+                "5 Y": "4.16%"
+            },
+            {
+                "fund_name": "UTI Overnight Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-overnight-fund/MUT054",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1334.82",
+                "1 Y": "3.22%",
+                "3 Y": "3.4%",
+                "5 Y": "4.08%"
+            },
+            {
+                "fund_name": "BNP Paribas Overnight Fund - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/bnp-paribas-overnight-fund-dp/MAB913",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "129.49",
+                "1 Y": "3.27%",
+                "3 Y": "3.37%",
+                "5 Y": "3.37%"
+            }
+        ]
+    },
+    {
+        "fund_type": " Fixed Maturity Plans - Hybrid»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action",
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Quant Mid Cap Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-mid-cap-fund-direct/MES043",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "11.94",
+                "1 Y": "32.03%",
+                "3 Y": "44.58%",
+                "5 Y": "28.56%"
+            },
+            {
+                "fund_name": "Quant Mid Cap Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-mid-cap-fund/MES013",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "18.98",
+                "1 Y": "29%",
+                "3 Y": "41.88%",
+                "5 Y": "26.72%"
+            },
+            {
+                "fund_name": "Quant Absolute Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-absolute-fund-direct/MES065",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "10.6",
+                "1 Y": "24.12%",
+                "3 Y": "38.21%",
+                "5 Y": "26.34%"
+            },
+            {
+                "fund_name": "Quant Absolute Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-absolute-fund/MES006",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "5.31",
+                "1 Y": "23.75%",
+                "3 Y": "37.43%",
+                "5 Y": "25.54%"
+            },
+            {
+                "fund_name": "ICICI Prudential Equity & Debt - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-equity-debt-d/MPI1136",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1983.48",
+                "1 Y": "31.21%",
+                "3 Y": "30.53%",
+                "5 Y": "20.16%"
+            },
+            {
+                "fund_name": "Kotak Debt Hybrid - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-debt-hybrid-d/MKM536",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "29.22",
+                "1 Y": "11.77%",
+                "3 Y": "15.17%",
+                "5 Y": "12.49%"
+            },
+            {
+                "fund_name": "SBI Debt Hybrid Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-debt-hybrid-fund-d/MSB538",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "57.58",
+                "1 Y": "11.32%",
+                "3 Y": "14.24%",
+                "5 Y": "11.08%"
+            },
+            {
+                "fund_name": "Kotak Debt Hybrid (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-debt-hybrid/MKM050",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "390.64",
+                "1 Y": "10.24%",
+                "3 Y": "13.75%",
+                "5 Y": "11.13%"
+            },
+            {
+                "fund_name": "SBI Debt Hybrid Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-debt-hybrid-fund/MSB021",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "1014.81",
+                "1 Y": "10.69%",
+                "3 Y": "13.57%",
+                "5 Y": "10.37%"
+            },
+            {
+                "fund_name": "UTI Regular Savings Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-regular-savings-fund-d/MUT672",
+                "Crisil Rank": "\n2\n                \n\n",
+                "AUM (Cr)": "102.83",
+                "1 Y": "13.09%",
+                "3 Y": "12.95%",
+                "5 Y": "9.66%"
+            },
+            {
+                "fund_name": "ICICI Pru Equity-Arbitrage- IP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-equity-arbitrage-ip/MPI124",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "0",
+                "1 Y": "6.23%",
+                "3 Y": "6.27%",
+                "5 Y": "6.15%"
+            },
+            {
+                "fund_name": "Edelweiss Arbitrage Fund  - Dir (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/edelweiss-arbitrage-fund-dir/MEW116",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1969.83",
+                "1 Y": "4.66%",
+                "3 Y": "4.92%",
+                "5 Y": "5.55%"
+            },
+            {
+                "fund_name": "Axis Arbitrage Fund-DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-arbitrage-fund-dp/MAA588",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1945.96",
+                "1 Y": "5%",
+                "3 Y": "4.87%",
+                "5 Y": "5.45%"
+            },
+            {
+                "fund_name": "Nippon Arbitrage Fund - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-arbitrage-fund-direct/MRC899",
+                "Crisil Rank": "\n3\n                \n\n",
+                "AUM (Cr)": "4785.15",
+                "1 Y": "4.66%",
+                "3 Y": "4.84%",
+                "5 Y": "5.53%"
+            },
+            {
+                "fund_name": "L&T Arbitrage Oppor. - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/l-t-arbitrage-oppor-direct/MCC504",
+                "Crisil Rank": "\n4\n                \n\n",
+                "AUM (Cr)": "906.85",
+                "1 Y": "4.27%",
+                "3 Y": "4.79%",
+                "5 Y": "5.41%"
+            },
+            {
+                "fund_name": "Principal Equity Savings Fund - D (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-equity-savings-fund-d/MID294",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2.25",
+                "1 Y": "14.99%",
+                "3 Y": "17.99%",
+                "5 Y": "13.54%"
+            },
+            {
+                "fund_name": "Mahindra Manulife Equity Savings Dhan Sa",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mahindra-manulife-equity-savings-dhan-sa/MMH015",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2.53",
+                "1 Y": "12.64%",
+                "3 Y": "17.86%",
+                "5 Y": "13.48%"
+            },
+            {
+                "fund_name": "Principal Equity Savings Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/principal-equity-savings-fund/MID035",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "60.12",
+                "1 Y": "13.24%",
+                "3 Y": "16.43%",
+                "5 Y": "12.1%"
+            },
+            {
+                "fund_name": "Mahindra Manulife Equity Savings Dhan Sa",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mahindra-manulife-equity-savings-dhan-sa/MMH013",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "178.81",
+                "1 Y": "10.64%",
+                "3 Y": "15.89%",
+                "5 Y": "11.56%"
+            },
+            {
+                "fund_name": "HDFC Equity Savings Fund - Direct Plan (",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-equity-savings-fund-direct-plan-/MHD1217",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "357.53",
+                "1 Y": "11.87%",
+                "3 Y": "15.12%",
+                "5 Y": "11.48%"
+            },
+            {
+                "fund_name": "HDFC Balanced Advantage Fund-DP-(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-balanced-advantage-fund-dp-/MHD1146",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3941.2",
+                "1 Y": "18.04%",
+                "3 Y": "22.89%",
+                "5 Y": "15.91%"
+            },
+            {
+                "fund_name": "HDFC Balanced Advantage Fund-RP-(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-balanced-advantage-fund-rp-/MHD001",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "36769.26",
+                "1 Y": "17.33%",
+                "3 Y": "22.19%",
+                "5 Y": "15.19%"
+            },
+            {
+                "fund_name": "ABSL BAF - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/absl-baf-direct/MIN389",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "233.82",
+                "1 Y": "8.14%",
+                "3 Y": "16.45%",
+                "5 Y": "12.61%"
+            },
+            {
+                "fund_name": "ICICI Pru Balanced Adv - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-balanced-adv-direct/MPI1142",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3814.89",
+                "1 Y": "10.88%",
+                "3 Y": "16.3%",
+                "5 Y": "12.93%"
+            },
+            {
+                "fund_name": "Nippon Balanced Advantage - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-balanced-advantage-direct/MRC1002",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "143.15",
+                "1 Y": "9.2%",
+                "3 Y": "15.84%",
+                "5 Y": "12.4%"
+            },
+            {
+                "fund_name": "Quant Multi Asset Fund - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-multi-asset-fund-dp/MES063",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "12.26",
+                "1 Y": "20.11%",
+                "3 Y": "40.4%",
+                "5 Y": "27.44%"
+            },
+            {
+                "fund_name": "Quant Multi Asset Fund - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-multi-asset-fund-rp/MES007",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "3.4",
+                "1 Y": "37.21%",
+                "3 Y": "40.11%",
+                "5 Y": "27.31%"
+            },
+            {
+                "fund_name": "ICICI Pru Multi-Asset Fund - D(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-multi-asset-fund-d/MPI1118",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1017.39",
+                "1 Y": "28.7%",
+                "3 Y": "27.54%",
+                "5 Y": "18.45%"
+            },
+            {
+                "fund_name": "ICICI Pru Multi-Asset Fund (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-multi-asset-fund/MPI038",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "10147.76",
+                "1 Y": "27.93%",
+                "3 Y": "26.78%",
+                "5 Y": "17.66%"
+            },
+            {
+                "fund_name": "Axis Triple Advantage - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-triple-advantage-direct/MAA203",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "29.42",
+                "1 Y": "14.51%",
+                "3 Y": "22.67%",
+                "5 Y": "17.45%"
+            },
+            {
+                "fund_name": "Axis EAF - Sr. 1 - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-eaf-sr-1-dp/MAA714",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "5.68",
+                "1 Y": "32.26%",
+                "3 Y": "22.61%",
+                "5 Y": "17.91%"
+            },
+            {
+                "fund_name": "Axis EAF - Sr. 1 - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-eaf-sr-1-rp/MAA716",
+                "Crisil Rank": "\n1\n                \n\n",
+                "AUM (Cr)": "1259.92",
+                "1 Y": "31.24%",
+                "3 Y": "21.59%",
+                "5 Y": "16.8%"
+            },
+            {
+                "fund_name": "Axis EAF - Sr. 2 - DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-eaf-sr-2-dp/MAA733",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "0.43",
+                "1 Y": "40.54%",
+                "3 Y": "18.89%",
+                "5 Y": "17.43%"
+            },
+            {
+                "fund_name": "Axis EAF - Sr. 2 - RP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-eaf-sr-2-rp/MAA735",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "97.4",
+                "1 Y": "39.6%",
+                "3 Y": "17.9%",
+                "5 Y": "16.36%"
+            },
+            {
+                "fund_name": "ICICI Pru Multi Yield-Sr3-D-RP(G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-pru-multi-yield-sr3-d-rp/MPI1414",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "0.06",
+                "1 Y": "3.81%",
+                "3 Y": "5.55%",
+                "5 Y": "6.71%"
+            }
+        ]
+    },
+    {
+        "fund_type": " ELSS»",
+        "headings_list": [
+            "Crisil Rank",
+            "AUM (Cr)",
+            "1 Y",
+            "3 Y",
+            "5 Y",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Quant Tax Plan - Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-tax-plan-direct/MES037",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "49.69",
+                "1 Y": "34.25%",
+                "3 Y": "52.07%",
+                "5 Y": "33.51%"
+            },
+            {
+                "fund_name": "Quant Tax Plan (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/quant-tax-plan/MES003",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "13.8",
+                "1 Y": "31.42%",
+                "3 Y": "49.2%",
+                "5 Y": "31.57%"
+            },
+            {
+                "fund_name": "SBI Tax Advantage Sr-3- Direct (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-tax-advantage-sr-3-direct/MSB815",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "2.09",
+                "1 Y": "27.23%",
+                "3 Y": "43.01%",
+                "5 Y": "31.19%"
+            },
+            {
+                "fund_name": "Sundaram LT Tax Adv.- Sr-III- DP (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-lt-tax-adv-sr-iii-dp/MSN1375",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "1.03",
+                "1 Y": "44.62%",
+                "3 Y": "42.47%",
+                "5 Y": "31.18%"
+            },
+            {
+                "fund_name": "SBI Tax Advantage Sr-3- Regular (G)",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-tax-advantage-sr-3-regular/MSB813",
+                "Crisil Rank": "\nNA\n                \n\n",
+                "AUM (Cr)": "24.04",
+                "1 Y": "26.71%",
+                "3 Y": "42.37%",
+                "5 Y": "30.52%"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": []
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Medium to Long Duration Fund",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/BSMBS3200",
+                "Fund Category\n            ": "14-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Lovelish Solanki / Kedarnath Mirajkar"
+            },
+            {
+                "fund_name": "Medium to Long Duration Fund",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/BSMBS3202",
+                "Fund Category\n            ": "14-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Lovelish Solanki / Kedarnath Mirajkar"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": []
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": []
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": [
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/BSMBS3196",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Lovelish Solanki / Kedarnath Mirajkar"
+            },
+            {
+                "fund_name": "Index Funds/ETFs",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/BSMBS3194",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Lovelish Solanki / Kedarnath Mirajkar"
+            },
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/RCMRC2908",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Mehul Dama"
+            },
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/RCMRC2906",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Mehul Dama"
+            },
+            {
+                "fund_name": "Index Funds/ETFs",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/RCMRC2905",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Vikram Dhawan"
+            },
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/PIMPI4560",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Mr. Manish Banthia/ Mr. Nishit Patel"
+            },
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/PIMPI4559",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Mr. Manish Banthia/ Mr. Nishit Patel"
+            },
+            {
+                "fund_name": "Fund of Funds",
+                "fund_link": "https://www.moneycontrol.com/mutual-funds/new-fund-offers/report/BSMBS3198",
+                "Fund Category\n            ": "13-01-22",
+                "Start Date\n            ": "27-01-22",
+                "End Date\n            ": "Lovelish Solanki / Kedarnath Mirajkar"
+            }
+        ]
+    },
+    {
+        "fund_type": null,
+        "headings_list": [
+            "Fund Name »",
+            "Fund Category\n            ",
+            "Start Date\n            ",
+            "End Date\n            ",
+            "Fund Manager\n            ",
+            "Action"
+        ],
+        "fund_details": []
+    }
+]

@@ -46,7 +46,7 @@ class IMDBScraperBot:
     
 scraper_bot = IMDBScraperBot()       
 website_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
-soup_instance = Applicationutils.getWebSiteContendsAsHTML(website_url)
+soup_instance = Applicationutils.c(website_url)
 
 if soup_instance is not None:
     main_table = soup_instance.find("table",{"class":"chart full-width"})
