@@ -18,17 +18,7 @@ class ExecuteExternalProcess:
         config_instance = configparser.ConfigParser()
         config_instance.read(config_file_path)
         self.config_instance = config_instance
-        
-    def convert_filecontents_utf8(self,input_file_name,output_file_name):
-        BLOCKSIZE = 1048576
-        with codecs.open(input_file_name, "r") as sourceFile:
-            with codecs.open(output_file_name, "w", "utf-8") as targetFile:
-                while True:
-                    contents = sourceFile.read(BLOCKSIZE)
-                    if not contents:
-                        break
-                    targetFile.write(contents)
-                
+      
     def write_contends_to_file(self,fileName,encoding_input,inputContent):
         """[This Method is intended to write the contends of the output to a file depends on the file type configured , the default output would be a json file and the input for any type of file would be a dictionary]
 
@@ -39,14 +29,6 @@ class ExecuteExternalProcess:
         """
         with open(fileName, 'w', encoding=encoding_input) as file_ins:
             json.dump(inputContent,file_ins, ensure_ascii=False, indent=4)
-            
-    def find_between(self,input_content, first, last ):
-        try:
-            start = input_content.index(first) + len(first)
-            end = input_content.index(last,start)
-            return input_content[start:end]
-        except ValueError:
-            return None
         
     def find_element_list(self,input_list,first_element,last_element):
         element_content = None
@@ -61,14 +43,7 @@ class ExecuteExternalProcess:
             end_index = input_list.index(last_element)
             print("The Index of the end element :: "+last_element+" is :: "+str(end_index))
             element_content = input_list[start_index:end_index]
-            
         return element_content
-
-    def read_text_file(self,file_name):
-        read_data_content = None
-        with open(file_name, 'r',encoding="utf-8") as file:
-            read_data_content = file.read().replace('\n', '')
-        return read_data_content
     
     def parse_text_file_output(self,text_file_content,command_executed):
         """[This function is intended to execute the individual command and the parse the documentation and get the details from
